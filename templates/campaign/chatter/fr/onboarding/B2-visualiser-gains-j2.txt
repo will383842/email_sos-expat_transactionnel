@@ -1,0 +1,15 @@
+Bonjour [FNAME] !
+
+Faisons un calcul simple ensemble :
+
+2 appels avocat par jour → 60 par mois → 300$
+1 appel avocat par jour → 30 par mois → 150$
+5 appels avocat par semaine → 20 par mois → 100$
+
+Et ça, c'est uniquement vos appels directs. Si vous avez une équipe de 5 Chatters actifs sous vous, multipliez par 2.
+
+Ces chiffres sont réels. Votre lien est actif. Il ne vous manque plus qu'une chose : commencer.
+
+[DASHBOARD_URL]
+
+L'équipe SOS-Expat

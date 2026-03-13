@@ -1,0 +1,14 @@
+Bonjour [FNAME] !
+
+On vous en a parlé dès le début : les Ambassadeurs les plus investis intégreront notre bureau de Dakar qui ouvre en octobre 2026.
+
+Ce n'est pas une promesse vague. C'est un vrai poste, dans une vraie structure, avec une vraie équipe. Et les personnes sélectionnées seront celles qui auront montré le plus d'engagement, de régularité et de résultats dans les prochains mois.
+
+La question à vous poser aujourd'hui : si on regardait votre dashboard maintenant, est-ce que vous seriez dans le top ?
+
+Si oui : continuez, vous êtes sur la bonne voie.
+Si non : il est encore temps de changer ça.
+
+[DASHBOARD_URL]
+
+L'équipe SOS-Expat

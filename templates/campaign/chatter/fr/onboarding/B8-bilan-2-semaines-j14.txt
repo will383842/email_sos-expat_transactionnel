@@ -1,0 +1,18 @@
+Bonjour [FNAME] !
+
+Ça fait 2 semaines que vous avez rejoint l'équipe. C'est le bon moment pour faire le point.
+
+Connectez-vous à votre dashboard et regardez vos stats :
+
+Combien de clics sur votre lien ?
+Combien d'appels générés ?
+Combien avez-vous gagné ?
+Avez-vous déjà recruté quelqu'un ?
+
+Si vos chiffres sont bons : félicitations, continuez ! Vous êtes sur la bonne voie pour intégrer notre bureau de Dakar.
+
+Si vos chiffres sont à zéro : pas de panique. Répondez à cet email et dites-nous où vous en êtes. On vous aide à débloquer la situation en direct.
+
+[DASHBOARD_URL]
+
+L'équipe SOS-Expat

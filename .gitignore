@@ -3,3 +3,105 @@
 license
 .env
 *.password
+# ============================================================================
+# GITIGNORE - Outils d'Emailing
+# ============================================================================
+# Protection des données sensibles de backups MailWizz + PowerMTA
+# Mis à jour: 2026-02-16
+# ============================================================================
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# BACKUPS SENSIBLES
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# Répertoires de backups complets
+mailwizz_transactionnel/
+backups-auto/
+backup-cold/
+backup-cold-OLD*/
+Contabo-Full-Backup/
+
+# Archives
+*.tar.gz
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
+
+# Bases de données
+*.sql
+*.sql.gz
+*.sql.bz2
+*.dump
+*.db
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# CONFIGURATION SENSIBLE
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# PowerMTA
+pmta-config-*
+pmta-license-*
+pmta-dkim/
+pmta-*.txt
+
+# MailWizz
+mailwizz-*.tar.gz
+mailapp-*.sql.gz
+
+# Credentials & Secrets
+.env
+*.env
+credentials.json
+secrets.json
+*.pem
+*.key
+*password*
+*secret*
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# LOGS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+logs/
+*.log
+*.log.*
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# FICHIERS TEMPORAIRES
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+~$*
+nul
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+.claude/
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# EXCEPTIONS (Fichiers à conserver)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# Documentation (toujours commit)
+!*.md
+!README.md
+!GUIDE*.md
+!RECUPERATION*.md
+!ANALYSE*.md
+!COMMENCER-ICI.md
+
+# Scripts PowerShell (toujours commit)
+!scripts/*.ps1
+!scripts/*.xml
+
+# Structure de dossiers (keep empty directories)
+!backups-auto/.gitkeep
+!logs/.gitkeep
