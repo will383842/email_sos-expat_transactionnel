@@ -1,0 +1,49 @@
+server {
+    listen 443 ssl;
+    server_name mail.sos-expat.com;
+    root /var/www/mailwizz;
+    index index.php index.html;
+    ssl_certificate /etc/letsencrypt/live/mail.sos-expat.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/mail.sos-expat.com/privkey.pem; # managed by Certbot
+
+
+    location / {
+        try_files $uri $uri/ /index.php?$query_string;
+    }
+
+    location /backend {
+        try_files $uri $uri/ /backend/index.php?$query_string;
+    }
+
+    location /customer {
+        try_files $uri $uri/ /customer/index.php?$query_string;
+    }
+
+    location /api {
+        try_files $uri $uri/ /api/index.php?$query_string;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    }
+
+    location ~ /\. {
+        deny all;
+    }
+
+
+}
+server {
+    if ($host = mail.sos-expat.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+    listen 80;
+    server_name mail.sos-expat.com;
+    return 404; # managed by Certbot
+
+
+}
