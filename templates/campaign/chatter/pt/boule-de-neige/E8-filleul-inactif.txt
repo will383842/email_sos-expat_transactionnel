@@ -1,0 +1,13 @@
+Ola [FNAME]!
+
+O teu afilhado [INACTIVE_RECRUIT_NAME] nao partilhou nada ha [INACTIVE_RECRUIT_DAYS] dias. Acontece. A maioria das pessoas so precisa de um pequeno empurrao para se reativar.
+
+Envia-lhe esta mensagem:
+
+---
+Hey [INACTIVE_RECRUIT_NAME]! Ha algum tempo que nao te vemos no SOS-Expat. Sem pressao, mas queria lembrar-te que o teu link continua ativo e que cada chamada te gera rendimento. Mesmo 10 minutos por dia num grupo de WhatsApp podem fazer a diferenca. Estamos na mesma equipa, por isso se tiveres duvidas ou estiveres bloqueado em algo, diz-me. Estou aqui!
+---
+
+Lembra-te: quando [INACTIVE_RECRUIT_NAME] gera chamadas, tu recebes [COMMISSION_N1] por cada uma. Reativar um afilhado e reativar um rendimento.
+
+A equipa SOS-Expat

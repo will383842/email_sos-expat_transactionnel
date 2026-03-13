@@ -1,0 +1,25 @@
+Subject: 1 month! Your personal recap + a tool you might not be using
+
+Hi [FNAME],
+
+30 days. You're officially a chatter with experience.
+
+Your monthly recap:
+- Earnings this month: [MONTHLY_EARNINGS]
+- Total since you started: [TOTAL_EARNED]
+- Team: [TEAM_SIZE] recruit(s)
+- Level: [LEVEL_NAME]
+
+There's a tool many chatters underestimate: the QR code.
+
+Your personal QR code redirects straight to your affiliate link. You can use it everywhere:
+- As a temporary WhatsApp profile picture
+- In an Instagram or Facebook story
+- Printed on a flyer at a community center
+- Sent as an image in a conversation
+
+It's a visual shortcut to your link. People scan, call, you earn.
+
+Download your QR code here: [QR_CODE_URL]
+
+The SOS-Expat Team

@@ -1,0 +1,18 @@
+Assunto: [LAST_COMMISSION_AMOUNT] na tua conta! Eis como duplicar
+
+Hey [FNAME],
+
+CONSEGUISTE! A tua primeira comissao acabou de cair: [LAST_COMMISSION_AMOUNT] ganhos gracas a um [LAST_COMMISSION_TYPE].
+
+E real. Esta na tua conta. E isto e so o inicio.
+
+Sabes o que separa quem ganha [LAST_COMMISSION_AMOUNT] de quem ganha 10x mais? Um unico gesto: partilhar o link em 2 grupos de WhatsApp. So isso.
+
+O teu link: [LINK]
+
+Copia-o, abre o WhatsApp e envia-o em 2 grupos de expatriados. Nao amanha. Agora.
+
+Cada chamada gerada = uma nova comissao para ti.
+
+Ate muito breve para a tua proxima comissao,
+A equipa SOS-Expat

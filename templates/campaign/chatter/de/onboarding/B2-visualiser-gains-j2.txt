@@ -1,0 +1,14 @@
+Hallo [FNAME]!
+
+Machen wir eine einfache Rechnung mit IHREN Provisionen:
+
+Anwalt-Anruf = [COMMISSION_CLIENT_LAWYER] | Assistenten-Anruf = [COMMISSION_CLIENT_EXPAT]
+
+Ein paar Anrufe pro Woche → Ihre ersten Provisionen kommen schnell.
+Je regelmaessiger Sie sind, desto mehr steigt es. Und wenn Sie ein Team aktiver Chatters unter sich haben, verdienen Sie zusaetzlich [COMMISSION_N1] bei jedem ihrer Anrufe.
+
+Diese Zahlen sind real. Ihr Link ist aktiv. Es fehlt nur noch eines: anfangen.
+
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

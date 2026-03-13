@@ -1,0 +1,16 @@
+Asunto: Tu ahijado [NEW_RECRUIT_NAME] se ha inscrito! Ayudale a triunfar
+
+[FNAME],
+
+Buenas noticias! [NEW_RECRUIT_NAME] acaba de inscribirse gracias a ti.
+
+Cada llamada que [NEW_RECRUIT_NAME] genere te dara [COMMISSION_N1]. Sin hacer nada mas. Pero para eso, necesita arrancar bien.
+
+Enviale este mensaje ahora:
+
+"Hola [NEW_RECRUIT_NAME]! Bienvenido/a a SOS-Expat. Lo mas facil para empezar: comparte tu enlace en 2-3 grupos de WhatsApp de expatriados. Cada llamada te genera una comision. Si tienes preguntas, aqui estoy!"
+
+Los chatters que ayudan a sus ahijados ganan de media 3 veces mas. Es logico: cuando tu equipo gana, tu ganas.
+
+A por ello,
+El equipo SOS-Expat

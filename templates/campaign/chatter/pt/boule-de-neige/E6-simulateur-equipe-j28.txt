@@ -1,0 +1,21 @@
+Ola [FNAME]!
+
+Os numeros falam por si.
+
+Hoje ganhas [MONTHLY_EARNINGS] este mes com os teus proprios esforcos. E um bom comeco.
+
+Agora ve o que da com uma equipa:
+
+- Com 3 afilhados ativos: [PROJECTED_3_RECRUITS]/mes
+- Com 10 afilhados ativos: [PROJECTED_10_RECRUITS]/mes
+
+A diferenca? Nao sao numeros inventados. E uma projecao baseada nos teus resultados atuais, multiplicada pelo numero de pessoas na tua equipa.
+
+E o melhor de tudo: os teus afilhados tambem podem recrutar. Ai recebes [COMMISSION_N2] pelas chamadas dos proprios afilhados deles. A equipa cresce sem que tu intervenhas.
+
+Consulta o teu simulador personalizado no teu dashboard:
+[DASHBOARD_URL]
+
+Cada afilhado que recrutares hoje e um rendimento recorrente amanha.
+
+A equipa SOS-Expat

@@ -1,0 +1,21 @@
+主题：5位成员 = [PROJECTED_3_RECRUITS]/月被动收入
+
+[FNAME]，
+
+5位活跃成员。你已经是认真做事的推广者了。
+
+你的真实数据：
+- 团队：[TEAM_SIZE] 位成员
+- 总收入：[TOTAL_EARNED]
+- 可用余额：[AVAILABLE_BALANCE]
+
+有5位活跃成员，你正朝着每月 [PROJECTED_3_RECRUITS] 的被动收入前进。每增加一个新成员，机器就运转得更快。
+
+在仪表盘查看你的详细数据和预估：[DASHBOARD_URL]
+
+你的数字说明了一切。继续招募，继续赚钱。
+
+你的链接：[LINK]
+
+令人印象深刻，
+SOS-Expat 团队

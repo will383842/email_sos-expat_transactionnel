@@ -1,0 +1,18 @@
+Salut [FNAME] !
+
+Laisse-moi te raconter l'histoire de deux amis.
+
+Moussa partageait son lien SOS-Expat dans des groupes WhatsApp d'expatriés. Ça marchait bien, il gagnait ses commissions tranquillement. Un jour, il en parle à son pote Ibra. Ibra s'inscrit via son lien.
+
+Ibra, lui, est actif sur Facebook. Il rejoint des groupes de francophones au Canada, en Belgique, aux USA. Rapidement, il génère des appels de son côté.
+
+Résultat : Moussa gagne toujours ses propres commissions. Mais en plus, il touche [COMMISSION_N1] sur chaque appel d'Ibra. Et quand Ibra a recruté sa cousine Awa, Moussa a commencé à toucher [COMMISSION_N2] sur les appels d'Awa aussi.
+
+Moussa n'a envoyé qu'UN message à UN ami. Le reste s'est fait tout seul.
+
+C'est ça l'effet boule de neige.
+
+Partage cette histoire avec quelqu'un et ajoute ton lien :
+[LINK]
+
+L'équipe SOS-Expat

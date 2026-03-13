@@ -1,0 +1,16 @@
+Assunto: O teu afilhado [NEW_RECRUIT_NAME] inscreveu-se! Ajuda-o a ter sucesso
+
+[FNAME],
+
+Boas noticias! [NEW_RECRUIT_NAME] acabou de se inscrever gracas a ti.
+
+Cada chamada que [NEW_RECRUIT_NAME] gerar da-te [COMMISSION_N1]. Sem fazeres mais nada. Mas para isso, ele precisa de comecar bem.
+
+Envia-lhe esta mensagem agora:
+
+"Ola [NEW_RECRUIT_NAME]! Bem-vindo/a ao SOS-Expat. O mais simples para comecar: partilha o teu link em 2-3 grupos de WhatsApp de expatriados. Cada chamada gera-te uma comissao. Se tiveres duvidas, estou aqui!"
+
+Os chatters que ajudam os seus afilhados ganham em media 3 vezes mais. E logico: quando a tua equipa ganha, tu ganhas.
+
+Vai em frente,
+A equipa SOS-Expat

@@ -1,0 +1,14 @@
+Hallo [FNAME]!
+
+Wir haben es Ihnen von Anfang an gesagt: Die engagiertesten Ambassadeure werden unser Buero in Dakar integrieren, das im Oktober 2026 eroeffnet.
+
+Das ist kein vages Versprechen. Es ist eine echte Stelle, in einem echten Unternehmen, mit einem echten Team. Und die ausgewaehlten Personen werden diejenigen sein, die in den kommenden Monaten das meiste Engagement, die groesste Regelmaessigkeit und die besten Ergebnisse gezeigt haben.
+
+Die Frage, die Sie sich heute stellen sollten: Wenn wir jetzt Ihr Dashboard anschauen wuerden, waeren Sie unter den Besten?
+
+Wenn ja: Weiter so, Sie sind auf dem richtigen Weg.
+Wenn nein: Es ist noch Zeit, das zu aendern.
+
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

@@ -1,0 +1,17 @@
+Betreff: [FNAME], dein Link ist bereit — 1 Gruppe reicht, um loszulegen
+
+Hey [FNAME],
+
+Dein Affiliate-Link ist seit [DAYS_SINCE_REGISTRATION] Tagen aktiv. Ein einziges Teilen in einer WhatsApp-Gruppe kann deine erste Provision ausloesen.
+
+Keine komplizierte Strategie noetig. Kopiere diese Nachricht und poste sie in EINE WhatsApp-Gruppe fuer Expats:
+
+---
+🆘 Du bist Expat und brauchst rechtliche oder administrative Hilfe? Ruf in Sekundenschnelle einen Anwalt oder Expat-Assistenten an, egal wo du bist. Rund um die Uhr verfuegbar:
+[LINK]
+---
+
+Das war's. Eine Nachricht, eine Gruppe. Jeder Anruf ueber deinen Link bringt dir [COMMISSION_CLIENT_LAWYER] (Anwalt) oder [COMMISSION_CLIENT_EXPAT] (Expat-Assistent).
+
+Du bist dran,
+Das SOS-Expat Team

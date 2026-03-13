@@ -1,0 +1,18 @@
+Betreff: Das Geld ist auf deinem Konto! [WITHDRAWAL_AMOUNT] gesendet
+
+[FNAME],
+
+Erledigt. [WITHDRAWAL_AMOUNT] wurden gerade auf dein Konto ueberwiesen.
+
+Das war kein Versprechen. Das war kein "irgendwann vielleicht". Es ist echt, es ist erledigt, es gehoert dir.
+
+Du bist einer der Chatter, die ins Handeln gekommen sind. Und das verdient es, geteilt zu werden.
+
+Sende diesen Erfahrungsbericht an deine Kontakte:
+
+"Ich habe gerade meine erste Auszahlung von SOS-Expat erhalten! Ich teile einen Link, Expats rufen Anwaelte oder Assistenten an, und ich verdiene eine Provision bei jedem Anruf. Einfach und es zahlt sich wirklich aus. Mach mit: [LINK]"
+
+Deine Geschichte inspiriert. Teile sie.
+
+Herzlichen Glueckwunsch,
+Das SOS-Expat Team

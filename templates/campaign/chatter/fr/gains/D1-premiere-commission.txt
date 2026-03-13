@@ -1,0 +1,18 @@
+Objet : [LAST_COMMISSION_AMOUNT] sur ton compte ! Voici comment doubler
+
+Hey [FNAME],
+
+CA Y EST ! Ta premiere commission vient de tomber : [LAST_COMMISSION_AMOUNT] gagnes grace a un [LAST_COMMISSION_TYPE].
+
+C'est reel. C'est sur ton compte. Et ce n'est que le debut.
+
+Tu sais ce qui separe ceux qui gagnent [LAST_COMMISSION_AMOUNT] de ceux qui gagnent 10x plus ? Un seul geste : partager leur lien dans 2 groupes WhatsApp. C'est tout.
+
+Ton lien : [LINK]
+
+Copie-le, ouvre WhatsApp, et envoie-le dans 2 groupes d'expatries. Pas demain. Maintenant.
+
+Chaque appel genere = une nouvelle commission pour toi.
+
+A tres vite pour ta prochaine commission,
+L'equipe SOS-Expat

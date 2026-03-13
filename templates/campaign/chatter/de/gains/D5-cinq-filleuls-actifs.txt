@@ -1,0 +1,21 @@
+Betreff: 5 Rekruten = [PROJECTED_3_RECRUITS]/Monat passiv
+
+[FNAME],
+
+5 aktive Rekruten. Du gehoerst zu den ernsthaften Chattern.
+
+Hier sind deine echten Zahlen:
+- Team: [TEAM_SIZE] Rekruten
+- Insgesamt verdient: [TOTAL_EARNED]
+- Verfuegbares Guthaben: [AVAILABLE_BALANCE]
+
+Mit 5 aktiven Rekruten bist du auf dem Weg zu [PROJECTED_3_RECRUITS]/Monat an passivem Einkommen. Und jeder neue Rekrut beschleunigt die Maschine.
+
+Pruefe deine detaillierten Statistiken und Hochrechnungen auf deinem Dashboard: [DASHBOARD_URL]
+
+Deine Zahlen sprechen fuer sich. Rekrutiere weiter, verdiene weiter.
+
+Dein Link: [LINK]
+
+Beeindruckend,
+Das SOS-Expat Team

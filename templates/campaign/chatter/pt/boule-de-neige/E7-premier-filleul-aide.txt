@@ -1,0 +1,18 @@
+Ola [FNAME]!
+
+O teu primeiro afilhado [NEW_RECRUIT_NAME] acabou de se inscrever. Parabens, e um passo importante!
+
+Agora, a chave: ajuda-o a arrancar. Um afilhado bem acompanhado nos primeiros dias torna-se ativo. Um afilhado deixado sozinho desiste.
+
+Envia-lhe esta mensagem agora mesmo:
+
+---
+Bem-vindo/a [NEW_RECRUIT_NAME]! Fico contente que te tenhas juntado ao SOS-Expat. Para comecares bem: liga-te ao teu dashboard, copia o teu link de afiliado e junta-te a 2-3 grupos de WhatsApp ou Facebook de lusofonos no estrangeiro. Primeiro observa, ajuda as pessoas, e quando alguem tiver um problema juridico ou administrativo real, fala-lhe do SOS-Expat. E tao simples quanto isso. Estou aqui se tiveres duvidas!
+---
+
+Quantas mais chamadas [NEW_RECRUIT_NAME] gerar, mais tu ganhas a [COMMISSION_N1] por chamada. O vosso sucesso esta ligado.
+
+Acompanha a atividade da tua equipa aqui:
+[DASHBOARD_URL]
+
+A equipa SOS-Expat

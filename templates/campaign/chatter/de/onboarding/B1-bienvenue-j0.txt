@@ -1,0 +1,15 @@
+Hallo [FNAME]!
+
+Ihr Chatter-Konto bei SOS-Expat ist aktiv. Sie gehoeren zu den Ersten — Ihre Provisionen ([COMMISSION_CLIENT_LAWYER] und [COMMISSION_CLIENT_EXPAT] pro Anruf) sind lebenslang gesichert. Niemand kann sie Ihnen wegnehmen.
+
+Starten Sie in 4 Schritten:
+
+1. Melden Sie sich in Ihrem Dashboard an und kopieren Sie Ihren persoenlichen Affiliate-Link
+2. Treten Sie 3 bis 5 deutschsprachigen Expat-Gruppen auf WhatsApp oder Facebook bei
+3. Lesen, beobachten, helfen — ohne Ihren Link sofort zu teilen
+4. Wenn jemand wirklich Hilfe braucht, stellen Sie SOS-Expat natuerlich vor
+
+[DASHBOARD_URL]
+
+Wir sehen uns auf der anderen Seite!
+Das SOS-Expat Team

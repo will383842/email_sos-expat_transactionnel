@@ -1,0 +1,18 @@
+Objet : Semaine 1 terminée — voici ce que font les chatters qui gagnent
+
+Salut [FNAME],
+
+7 jours déjà. Voici la différence entre les chatters qui gagnent et ceux qui abandonnent :
+
+Les premiers partagent leur lien dans au moins 3 groupes par semaine. Pas 30. Pas 100. Trois.
+
+Ils ne spamment pas. Ils répondent aux gens qui posent des questions sur les visas, le droit du travail, les démarches admin... et ils glissent leur lien en réponse. Naturellement.
+
+Résultat : des commissions de [COMMISSION_CLIENT_LAWYER] par appel avocat et [COMMISSION_CLIENT_EXPAT] par appel assistant, qui tombent sans effort supplémentaire.
+
+Ton tableau de bord te montre exactement où tu en es — clics, appels, commissions.
+
+Jette un oeil maintenant : [DASHBOARD_URL]
+
+À bientôt,
+L'équipe SOS-Expat

@@ -1,23 +1,24 @@
 Bonjour [FNAME] !
 
-200$ par mois. Est-ce que c'est vraiment atteignable ?
+Est-ce que des revenus réguliers sont vraiment atteignables ?
 
-Oui — voilà comment :
+Oui — voilà comment, avec VOS commissions :
 
 Scénario 1 — Solo
 - 2 groupes Facebook actifs + WhatsApp + Reddit
 - 30 minutes par jour d'activité régulière
-- 10 appels avocat par semaine = 200$ par mois
+- Chaque appel avocat vous rapporte [COMMISSION_CLIENT_LAWYER]
+- Chaque appel assistant vous rapporte [COMMISSION_CLIENT_EXPAT]
 
 Scénario 2 — Avec équipe
-- Vous générez 5 appels par semaine personnellement
-- Vous avez 3 Chatters actifs sous vous qui font pareil
-- Total : 20 appels par semaine = 400$ par mois
+- Vous générez des appels personnellement
+- Vous avez quelques Chatters actifs sous vous
+- Vous gagnez [COMMISSION_N1] sur chacun de LEURS appels en plus
 
 Scénario 3 — Capitaine Chatter
-- Vous gérez une équipe de 10 Chatters actifs
+- Vous gérez une équipe de Chatters actifs
 - Commissions sur leurs résultats + les vôtres
-- Revenus potentiels : 600$+ par mois
+- Revenus passifs qui grandissent avec votre équipe
 
 La clé : la régularité. 30 minutes par jour, tous les jours.
 

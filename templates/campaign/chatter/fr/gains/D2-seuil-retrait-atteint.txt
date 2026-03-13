@@ -1,0 +1,21 @@
+Objet : Tu peux retirer ! [AVAILABLE_BALANCE] disponibles
+
+[FNAME],
+
+Bravo ! Tu as atteint le seuil de retrait.
+
+Tu as [AVAILABLE_BALANCE] disponibles sur ton compte. C'est de l'argent reel, que tu peux recevoir des maintenant.
+
+Comment ca marche :
+- Seuil minimum : [WITHDRAWAL_THRESHOLD]
+- Frais de retrait : [WITHDRAWAL_FEE]
+- Tu recois le reste directement sur ton compte
+
+Clique ici pour demander ton retrait : [DASHBOARD_URL]
+
+Et pendant que ton argent arrive, continue a partager ton lien. La prochaine commission est peut-etre a un message pres.
+
+Ton lien : [LINK]
+
+Felicitations,
+L'equipe SOS-Expat

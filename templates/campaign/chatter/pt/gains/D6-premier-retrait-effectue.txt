@@ -1,0 +1,18 @@
+Assunto: O dinheiro esta na tua conta! [WITHDRAWAL_AMOUNT] enviados
+
+[FNAME],
+
+Esta feito. [WITHDRAWAL_AMOUNT] acabaram de ser enviados para a tua conta.
+
+Nao era uma promessa. Nao era "um dia talvez". E real, esta feito, esta contigo.
+
+Fazes parte dos chatters que passaram a acao. E isso merece ser partilhado.
+
+Envia este testemunho aos teus contactos:
+
+"Acabei de receber o meu primeiro pagamento do SOS-Expat! Partilho um link, expatriados ligam para advogados ou assistentes, e eu recebo uma comissao por cada chamada. E simples e paga mesmo. Junta-te: [LINK]"
+
+A tua historia inspira. Partilha-a.
+
+Parabens,
+A equipa SOS-Expat

@@ -1,0 +1,13 @@
+Hi [FNAME]!
+
+Your recruit [INACTIVE_RECRUIT_NAME] hasn't shared anything in [INACTIVE_RECRUIT_DAYS] days. It happens. Most people just need a little nudge to get back on track.
+
+Send them this message:
+
+---
+Hey [INACTIVE_RECRUIT_NAME]! It's been a while since we've seen you on SOS-Expat. No pressure, but I wanted to remind you that your link is still active and every call earns you money. Even 10 minutes a day in a WhatsApp group can make a difference. We're on the same team, so if you have questions or you're stuck on something, let me know. I'm here!
+---
+
+Remember: when [INACTIVE_RECRUIT_NAME] generates calls, you earn [COMMISSION_N1] on each one. Reactivating a recruit means reactivating an income stream.
+
+The SOS-Expat Team

@@ -1,0 +1,19 @@
+Hola [FNAME]!
+
+El efecto bola de nieve acaba de producirse.
+
+El ahijado de tu ahijado ha generado una llamada. Has cobrado [COMMISSION_N2] sin haber movido un dedo. Asi es exactamente como funciona el sistema.
+
+Recapitulemos:
+- Ganas tus propias comisiones cuando TU generas una llamada
+- Ganas [COMMISSION_N1] cuando TU AHIJADO genera una llamada
+- Ganas [COMMISSION_N2] cuando EL AHIJADO DE TU AHIJADO genera una llamada
+
+Es un arbol que crece solo. Cuanto mas crece tu equipo, mas se multiplican las ramas, mas caen los ingresos.
+
+Visualiza tu arbol de ingresos en tu dashboard:
+[DASHBOARD_URL]
+
+Cada persona que reclutes puede reclutar a otras. Y tu ganas en cada nivel.
+
+El equipo SOS-Expat

@@ -1,0 +1,27 @@
+Objet : 60 jours — ton bilan personnalisé, [FNAME]
+
+Salut [FNAME],
+
+2 mois de parcours chatter. Voici ton bilan complet :
+
+--- TON BILAN 60 JOURS ---
+Total gagné : [TOTAL_EARNED]
+Gains ce mois : [MONTHLY_EARNINGS]
+Solde disponible : [AVAILABLE_BALANCE]
+Seuil de retrait : [WITHDRAWAL_THRESHOLD]
+Équipe : [TEAM_SIZE] filleul(s)
+Niveau : [LEVEL_NAME]
+Classement : #[RANK]
+Streak actuel : [CURRENT_STREAK] jour(s)
+---
+
+Ces chiffres racontent ton histoire. Que tu sois à zéro ou à plusieurs centaines de dollars, tu as maintenant 60 jours d'expérience et un réseau de messages qui continue de travailler.
+
+La suite dépend d'une décision simple : est-ce que tu continues à construire, ou est-ce que tu laisses tomber ce que tu as déjà mis en place ?
+
+Les chatters qui passent le cap des 60 jours sont ceux qui finissent par vivre de leurs commissions. Tu y es.
+
+Ton dashboard avec toutes tes stats détaillées : [DASHBOARD_URL]
+
+On compte sur toi,
+L'équipe SOS-Expat

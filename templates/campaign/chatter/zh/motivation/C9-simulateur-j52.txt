@@ -1,0 +1,26 @@
+主题：[TEAM_SIZE] 位成员 × [COMMISSION_N1]/通话 = 自动收入
+
+嘿 [FNAME]，
+
+让我们一起快速算一笔账。
+
+今天你有 [TEAM_SIZE] 位成员。他们的每次通话都能为你带来 [COMMISSION_N1]。
+
+现在想象一下：
+
+3位活跃成员：
+→ 月度预估：[PROJECTED_3_RECRUITS]
+
+10位活跃成员：
+→ 月度预估：[PROJECTED_10_RECRUITS]
+
+这还不算你自己的直接佣金（每次律师通话 [COMMISSION_CLIENT_LAWYER]，每次助理通话 [COMMISSION_CLIENT_EXPAT]）。
+
+原理很简单：你招募的每个人都成为永久的收入来源。不是一次性的，而是每次通话都有。没有时间限制。
+
+仪表盘中的模拟器让你可以调整数字，精确看到根据你的活动量你能赚多少。
+
+打开模拟器：[DASHBOARD_URL]
+
+被动收入是一个成员一个成员建立起来的，
+SOS-Expat 团队

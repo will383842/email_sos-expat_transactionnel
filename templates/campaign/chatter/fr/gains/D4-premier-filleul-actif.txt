@@ -1,0 +1,18 @@
+Objet : Ca y est ! Tu gagnes en automatique grace a [NEW_RECRUIT_NAME]
+
+[FNAME],
+
+Le revenu passif, c'est maintenant.
+
+[NEW_RECRUIT_NAME] vient de generer sa premiere commission. Et toi, tu as gagne [COMMISSION_N1] sans lever le petit doigt.
+
+C'est exactement comme ca que ca marche : ton filleul partage, des expatries appellent, et toi tu touches une commission. A chaque fois. Automatiquement.
+
+Imagine avec 2 filleuls de plus. Puis 5. Puis 10.
+
+Recrute tes prochains filleuls en partageant ton lien : [LINK]
+
+Plus ton equipe grandit, plus tu gagnes sans effort. C'est mathematique.
+
+Continue comme ca,
+L'equipe SOS-Expat

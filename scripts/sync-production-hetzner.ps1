@@ -4,7 +4,7 @@
 # Description: Récupère automatiquement le backup de production depuis Hetzner
 # Author: Claude Code
 # Date: 2026-02-16
-# Usage: .\sync-production-hetzner.ps1 -ServerIP "89.167.26.169" -User "root"
+# Usage: .\sync-production-hetzner.ps1 -ServerIP "46.62.168.55" -User "root"
 # ============================================================================
 
 param(
@@ -15,7 +15,7 @@ param(
     [string]$User = "root",
 
     [Parameter(Mandatory=$false)]
-    [string]$LocalBackupDir = "C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing\backup-cold"
+    [string]$LocalBackupDir = "C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel\backup-cold"
 )
 
 # Couleurs pour output

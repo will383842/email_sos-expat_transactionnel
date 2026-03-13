@@ -1,0 +1,27 @@
+Betreff: 60 Tage — dein persoenlicher Rueckblick, [FNAME]
+
+Hallo [FNAME],
+
+2 Monate als Chatter. Hier ist dein vollstaendiger Rueckblick:
+
+--- DEIN 60-TAGE-RUECKBLICK ---
+Insgesamt verdient: [TOTAL_EARNED]
+Einnahmen diesen Monat: [MONTHLY_EARNINGS]
+Verfuegbares Guthaben: [AVAILABLE_BALANCE]
+Auszahlungsschwelle: [WITHDRAWAL_THRESHOLD]
+Team: [TEAM_SIZE] Rekrut(en)
+Level: [LEVEL_NAME]
+Ranking: #[RANK]
+Aktueller Streak: [CURRENT_STREAK] Tag(e)
+---
+
+Diese Zahlen erzaehlen deine Geschichte. Ob du bei null stehst oder bei mehreren hundert Dollar — du hast jetzt 60 Tage Erfahrung und ein Netzwerk von Nachrichten, das weiter arbeitet.
+
+Was als Naechstes kommt, haengt von einer einfachen Entscheidung ab: Baust du weiter auf, oder laesst du fallen, was du bereits aufgebaut hast?
+
+Die Chatter, die die 60-Tage-Marke ueberschreiten, sind diejenigen, die am Ende von ihren Provisionen leben. Du bist da.
+
+Dein Dashboard mit allen detaillierten Statistiken: [DASHBOARD_URL]
+
+Wir zaehlen auf dich,
+Das SOS-Expat Team

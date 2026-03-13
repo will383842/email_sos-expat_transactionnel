@@ -1,0 +1,23 @@
+Hi [FNAME]!
+
+We're not going to lie to you with unrealistic promises. Here's what our Chatters actually earn based on their level of commitment:
+
+Beginner Chatters (less than 30 min per day, 1-2 groups)
+→ A few commissions per week, a nice side income
+
+Regular Chatters (30 to 60 min per day, 3-5 active groups)
+→ Steady and growing earnings each month
+
+Chatters with a team (active + recruiting)
+→ Personal earnings + [COMMISSION_N1] per call from each recruit
+
+Where do you want to be in 30 days? It all depends on what you do today.
+
+Your personal commissions:
+- Lawyer call: [COMMISSION_CLIENT_LAWYER]
+- Assistant call: [COMMISSION_CLIENT_EXPAT]
+- Per recruit's call: [COMMISSION_N1]
+
+[DASHBOARD_URL]
+
+The SOS-Expat Team

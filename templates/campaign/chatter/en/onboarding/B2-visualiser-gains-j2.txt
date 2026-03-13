@@ -1,0 +1,14 @@
+Hi [FNAME]!
+
+Let's do a simple calculation with YOUR commissions:
+
+Lawyer call = [COMMISSION_CLIENT_LAWYER] | Assistant call = [COMMISSION_CLIENT_EXPAT]
+
+A few calls per week and your first commissions come in fast.
+The more consistent you are, the more it grows. And if you have a team of active Chatters under you, you also earn [COMMISSION_N1] on each of their calls.
+
+These numbers are real. Your link is active. There's only one thing left: start.
+
+[DASHBOARD_URL]
+
+The SOS-Expat Team

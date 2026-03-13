@@ -49,8 +49,8 @@
   <Actions Context="Author">
     <Exec>
       <Command>powershell.exe</Command>
-      <Arguments>-NoProfile -ExecutionPolicy Bypass -File "C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing\scripts\automated-weekly-backup.ps1"</Arguments>
-      <WorkingDirectory>C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing</WorkingDirectory>
+      <Arguments>-NoProfile -ExecutionPolicy Bypass -File "C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel\scripts\backup-auto-telegram.ps1"</Arguments>
+      <WorkingDirectory>C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel</WorkingDirectory>
     </Exec>
   </Actions>
 </Task>

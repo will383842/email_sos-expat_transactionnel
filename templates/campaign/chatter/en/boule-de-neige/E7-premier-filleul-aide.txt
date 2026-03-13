@@ -1,0 +1,18 @@
+Hi [FNAME]!
+
+Your first recruit [NEW_RECRUIT_NAME] just signed up. Congrats — that's a major milestone!
+
+Now the key: help them get started. A recruit who gets good support in their first days becomes active. A recruit left alone gives up.
+
+Send them this message right now:
+
+---
+Welcome [NEW_RECRUIT_NAME]! Glad you joined SOS-Expat. To get started well: log into your dashboard, copy your affiliate link, and join 2-3 WhatsApp or Facebook groups for French speakers abroad. Observe first, help people out, and when someone has a real legal or administrative issue, tell them about SOS-Expat. It's that simple. I'm here if you have questions!
+---
+
+The more calls [NEW_RECRUIT_NAME] generates, the more you earn [COMMISSION_N1] per call. Your success is linked.
+
+Track your team's activity here:
+[DASHBOARD_URL]
+
+The SOS-Expat Team

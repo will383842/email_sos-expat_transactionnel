@@ -1,0 +1,13 @@
+Hallo [FNAME]!
+
+Dein Rekrut [INACTIVE_RECRUIT_NAME] hat seit [INACTIVE_RECRUIT_DAYS] Tagen nichts geteilt. Das passiert. Die meisten Leute brauchen einfach einen kleinen Anstoss, um wieder durchzustarten.
+
+Schick ihm diese Nachricht:
+
+---
+Hey [INACTIVE_RECRUIT_NAME]! Es ist eine Weile her, seit wir dich auf SOS-Expat gesehen haben. Kein Druck, aber ich wollte dich daran erinnern, dass dein Link immer noch aktiv ist und jeder Anruf dir Geld bringt. Auch nur 10 Minuten am Tag in einer WhatsApp-Gruppe koennen einen Unterschied machen. Wir sind im selben Team, also wenn du Fragen hast oder irgendwo feststeckst, sag mir Bescheid. Ich bin da!
+---
+
+Denk daran: Wenn [INACTIVE_RECRUIT_NAME] Anrufe generiert, verdienst du [COMMISSION_N1] bei jedem einzelnen. Einen Rekruten reaktivieren heisst ein Einkommen reaktivieren.
+
+Das SOS-Expat Team

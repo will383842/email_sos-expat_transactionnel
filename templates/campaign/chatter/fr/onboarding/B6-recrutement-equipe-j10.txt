@@ -1,15 +1,15 @@
 Bonjour [FNAME] !
 
-Imaginez : vous avez 5 personnes actives dans votre équipe. Chacune génère 10 appels par semaine. Ça fait 50 appels supplémentaires — soit 150$ à 250$ de plus par mois — sans que vous ayez fait quoi que ce soit de plus.
+Imaginez : vous avez 5 personnes actives dans votre équipe. Chacune génère des appels chaque semaine. Et vous gagnez [COMMISSION_N1] sur chacun de leurs appels — sans rien faire de plus.
 
 C'est la puissance du recrutement.
 
 Comment recruter votre premier Chatter ?
 - Parlez-en à quelqu'un dans votre entourage qui est à l'aise sur les réseaux
-- Partagez votre lien de recrutement depuis votre dashboard
+- Partagez votre lien depuis votre dashboard : [LINK]
 - Expliquez-leur exactement ce que vous faites — c'est simple et concret
 
-Votre équipe travaille, vous gagnez aussi. Et les meilleurs recruteurs seront les premiers à intégrer le bureau de Dakar en octobre 2026.
+Votre équipe travaille, vous gagnez aussi.
 
 [DASHBOARD_URL]
 

@@ -1,0 +1,27 @@
+Asunto: 60 dias — tu balance personalizado, [FNAME]
+
+Hola [FNAME],
+
+2 meses de recorrido como chatter. Aqui tienes tu balance completo:
+
+--- TU BALANCE 60 DIAS ---
+Total ganado: [TOTAL_EARNED]
+Ganancias este mes: [MONTHLY_EARNINGS]
+Saldo disponible: [AVAILABLE_BALANCE]
+Umbral de retiro: [WITHDRAWAL_THRESHOLD]
+Equipo: [TEAM_SIZE] ahijado(s)
+Nivel: [LEVEL_NAME]
+Clasificacion: #[RANK]
+Racha actual: [CURRENT_STREAK] dia(s)
+---
+
+Estas cifras cuentan tu historia. Estes en cero o en varios cientos de dolares, ahora tienes 60 dias de experiencia y una red de mensajes que sigue trabajando.
+
+Lo que viene depende de una decision simple: sigues construyendo, o dejas lo que ya has puesto en marcha?
+
+Los chatters que superan los 60 dias son los que acaban viviendo de sus comisiones. Tu ya estas ahi.
+
+Tu dashboard con todas tus estadisticas detalladas: [DASHBOARD_URL]
+
+Contamos contigo,
+El equipo SOS-Expat

@@ -1,0 +1,18 @@
+Hola [FNAME]!
+
+Dejame contarte la historia de dos amigos.
+
+Moussa compartia su enlace SOS-Expat en grupos de WhatsApp de expatriados. Le iba bien, ganaba sus comisiones tranquilamente. Un dia, se lo cuenta a su amigo Ibra. Ibra se inscribe a traves de su enlace.
+
+Ibra es activo en Facebook. Se une a grupos de hispanohablantes en Canada, Belgica, USA. Rapidamente, genera llamadas por su cuenta.
+
+Resultado: Moussa sigue ganando sus propias comisiones. Pero ademas, cobra [COMMISSION_N1] por cada llamada de Ibra. Y cuando Ibra recluto a su prima Awa, Moussa empezo a cobrar [COMMISSION_N2] por las llamadas de Awa tambien.
+
+Moussa solo envio UN mensaje a UN amigo. El resto se hizo solo.
+
+Eso es el efecto bola de nieve.
+
+Comparte esta historia con alguien y anade tu enlace:
+[LINK]
+
+El equipo SOS-Expat

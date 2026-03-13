@@ -1,6 +1,6 @@
 Bonjour [FNAME] !
 
-Votre compte Chatter SOS-Expat est actif. Vous faites partie des premiers — vos commissions (5$ et 3$ par appel) sont bloquées à vie. Personne ne peut vous les enlever.
+Votre compte Chatter SOS-Expat est actif. Vous faites partie des premiers — vos commissions ([COMMISSION_CLIENT_LAWYER] et [COMMISSION_CLIENT_EXPAT] par appel) sont bloquées à vie. Personne ne peut vous les enlever.
 
 Démarrez en 4 étapes :
 

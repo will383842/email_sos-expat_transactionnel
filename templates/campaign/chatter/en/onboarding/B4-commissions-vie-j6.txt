@@ -1,0 +1,13 @@
+Hi [FNAME]!
+
+We want to make sure you understand something important.
+
+Your commissions — [COMMISSION_CLIENT_LAWYER] per lawyer call and [COMMISSION_CLIENT_EXPAT] per assistant call — are locked in for life. These are rates reserved for Ambassadors like you.
+
+Chatters who sign up 6 months from now won't get these rates. You will. Forever. On every call. No exceptions.
+
+Every day without action is calls that someone else is generating in your place. Your link is ready. The English-speaking expats who need help are out there. The only thing missing is you.
+
+[DASHBOARD_URL]
+
+The SOS-Expat Team

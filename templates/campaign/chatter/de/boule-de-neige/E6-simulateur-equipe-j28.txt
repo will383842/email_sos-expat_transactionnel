@@ -1,0 +1,21 @@
+Hallo [FNAME]!
+
+Die Zahlen sprechen fuer sich.
+
+Aktuell verdienst du [MONTHLY_EARNINGS] diesen Monat durch deine eigenen Bemuehungen. Das ist ein guter Anfang.
+
+Jetzt schau, wie es mit einem Team aussieht:
+
+- Mit 3 aktiven Rekruten: [PROJECTED_3_RECRUITS]/Monat
+- Mit 10 aktiven Rekruten: [PROJECTED_10_RECRUITS]/Monat
+
+Der Unterschied? Das sind keine erfundenen Zahlen. Es ist eine Hochrechnung basierend auf deinen aktuellen Ergebnissen, multipliziert mit der Anzahl der Personen in deinem Team.
+
+Und das Beste: Deine Rekruten koennen auch rekrutieren. Dann verdienst du [COMMISSION_N2] bei Anrufen von deren eigenen Rekruten. Das Team waechst, ohne dass du eingreifen musst.
+
+Pruefe deinen personalisierten Simulator auf deinem Dashboard:
+[DASHBOARD_URL]
+
+Jeder Rekrut, den du heute gewinnst, ist wiederkehrendes Einkommen morgen.
+
+Das SOS-Expat Team

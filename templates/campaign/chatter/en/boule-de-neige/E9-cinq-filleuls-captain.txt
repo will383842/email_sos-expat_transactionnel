@@ -1,0 +1,16 @@
+Hi [FNAME]!
+
+You have [TEAM_SIZE] recruits on your team. That's more than most Chatters. You're building something serious.
+
+It's time to level up to Captain.
+
+The Captain program — what is it? It's recognition for Chatters who've proven they know how to recruit and lead a team. Exclusive perks, priority support, and new opportunities.
+
+You've already done the hardest part: building a team. Now, structure it.
+
+Discover the Captain program here:
+[DASHBOARD_URL]
+
+You've already earned [TOTAL_EARNED] in total. With an organized team, this is just the beginning.
+
+The SOS-Expat Team

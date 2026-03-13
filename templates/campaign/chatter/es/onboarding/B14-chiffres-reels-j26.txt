@@ -1,0 +1,1 @@
+¡Hola [FNAME]! Ganancias reales según tu nivel de actividad: Principiantes: primeras comisiones con esfuerzo moderado / Regulares: ingresos estables cada mes / Con equipo: ganancias multiplicadas gracias a tus ahijados. ¿Dónde quieres estar en 30 días? [DASHBOARD_URL] El equipo SOS-Expat

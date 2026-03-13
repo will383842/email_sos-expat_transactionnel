@@ -1,0 +1,18 @@
+Betreff: [LAST_COMMISSION_AMOUNT] auf deinem Konto! So verdoppelst du das
+
+Hey [FNAME],
+
+ES IST SOWEIT! Deine erste Provision ist da: [LAST_COMMISSION_AMOUNT] verdient dank einem [LAST_COMMISSION_TYPE].
+
+Es ist echt. Es ist auf deinem Konto. Und es ist erst der Anfang.
+
+Weisst du, was diejenigen, die [LAST_COMMISSION_AMOUNT] verdienen, von denen unterscheidet, die 10x mehr verdienen? Eine einzige Aktion: ihren Link in 2 WhatsApp-Gruppen teilen. Das ist alles.
+
+Dein Link: [LINK]
+
+Kopiere ihn, oeffne WhatsApp und schicke ihn in 2 Expat-Gruppen. Nicht morgen. Jetzt.
+
+Jeder generierte Anruf = eine neue Provision fuer dich.
+
+Bis sehr bald fuer deine naechste Provision,
+Das SOS-Expat Team

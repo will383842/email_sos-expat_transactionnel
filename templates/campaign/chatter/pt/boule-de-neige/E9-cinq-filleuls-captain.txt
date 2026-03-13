@@ -1,0 +1,16 @@
+Ola [FNAME]!
+
+Tens [TEAM_SIZE] afilhados na tua equipa. E mais do que a maioria dos Chatters. Estas a construir algo serio.
+
+E hora de passares ao nivel Captain.
+
+O programa Captain, o que e? E o reconhecimento dos Chatters que provaram que sabem recrutar e gerir uma equipa. Vantagens exclusivas, acompanhamento prioritario e novas oportunidades.
+
+Ja fizeste o mais dificil: formar uma equipa. Agora, estrutura-a.
+
+Descobre o programa Captain aqui:
+[DASHBOARD_URL]
+
+Ja levas [TOTAL_EARNED] ganhos no total. Com uma equipa organizada, isto e so o comeco.
+
+A equipa SOS-Expat

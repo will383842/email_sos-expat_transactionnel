@@ -1,0 +1,19 @@
+Salut [FNAME] !
+
+Tu gagnes [COMMISSION_CLIENT_LAWYER] par appel avocat et [COMMISSION_CLIENT_EXPAT] par appel assistant. C'est bien. Mais tu sais ce qui est encore mieux ?
+
+Quand un ami s'inscrit via ton lien et devient Chatter, tu gagnes [COMMISSION_N1] sur chacun de SES appels. Il bosse, tu gagnes. Automatiquement. Sans rien faire de plus.
+
+Un seul ami actif peut te rapporter plus que tes propres efforts.
+
+Voici un message prêt à envoyer à UN contact WhatsApp :
+
+---
+Hey ! Je suis tombé(e) sur un truc intéressant. SOS-Expat aide les francophones à l'étranger à joindre un avocat ou un assistant par téléphone. Ils cherchent des ambassadeurs pour en parler dans les communautés en ligne. C'est flexible, depuis ton tel, et tu gagnes une commission sur chaque appel. Regarde ici : [LINK]
+---
+
+Choisis UNE personne dans tes contacts. Celle qui galère un peu financièrement, qui est débrouillarde, qui passe du temps en ligne. Envoie-lui ce message maintenant.
+
+Un seul ami. C'est tout ce qu'il faut pour lancer l'effet boule de neige.
+
+L'équipe SOS-Expat

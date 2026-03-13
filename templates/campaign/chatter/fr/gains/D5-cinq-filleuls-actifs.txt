@@ -1,0 +1,21 @@
+Objet : 5 filleuls = [PROJECTED_3_RECRUITS]/mois en passif
+
+[FNAME],
+
+5 filleuls actifs. Tu fais partie des chatters serieux.
+
+Voici tes chiffres reels :
+- Equipe : [TEAM_SIZE] filleuls
+- Total gagne : [TOTAL_EARNED]
+- Solde disponible : [AVAILABLE_BALANCE]
+
+Avec 5 filleuls actifs, tu es en route vers [PROJECTED_3_RECRUITS]/mois de revenus passifs. Et chaque nouveau filleul accelere la machine.
+
+Consulte tes statistiques detaillees et projections sur ton dashboard : [DASHBOARD_URL]
+
+Tes chiffres parlent d'eux-memes. Continue a recruter, continue a gagner.
+
+Ton lien : [LINK]
+
+Impressionnant,
+L'equipe SOS-Expat

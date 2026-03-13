@@ -1,0 +1,19 @@
+Hallo [FNAME]!
+
+Du verdienst [COMMISSION_CLIENT_LAWYER] pro Anwalt-Anruf und [COMMISSION_CLIENT_EXPAT] pro Assistenten-Anruf. Das ist gut. Aber weisst du, was noch besser ist?
+
+Wenn sich ein Freund ueber deinen Link anmeldet und Chatter wird, verdienst du [COMMISSION_N1] bei jedem SEINER Anrufe. Er arbeitet, du verdienst. Automatisch. Ohne etwas extra zu tun.
+
+Ein einziger aktiver Freund kann dir mehr einbringen als deine eigenen Bemuehungen.
+
+Hier ist eine fertige Nachricht fuer EINEN WhatsApp-Kontakt:
+
+---
+Hey! Ich bin auf was Interessantes gestossen. SOS-Expat hilft Expats im Ausland, per Telefon einen Anwalt oder Assistenten zu erreichen. Sie suchen Botschafter, die in Online-Communities darueber sprechen. Es ist flexibel, vom Handy aus, und du verdienst eine Provision bei jedem Anruf. Schau mal: [LINK]
+---
+
+Waehle EINE Person aus deinen Kontakten. Die, die finanziell etwas kaempft, die clever ist, die viel online ist. Schick ihr jetzt diese Nachricht.
+
+Ein Freund. Das ist alles, was es braucht, um den Schneeballeffekt zu starten.
+
+Das SOS-Expat Team

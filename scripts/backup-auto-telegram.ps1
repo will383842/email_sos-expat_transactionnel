@@ -4,10 +4,10 @@
 param(
     [string]$ServerIP = "46.62.168.55",
     [string]$User = "root",
-    [string]$BaseBackupDir = "C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing\backups-auto",
+    [string]$BaseBackupDir = "C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel\backups-auto",
     [int]$MaxBackups = 2,
-    [string]$LogFile = "C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing\logs\backup-hebdo.log",
-    [string]$TelegramBotToken = "8349162167:AAGlhfoIZx7cUk40ebLypjEbpK6SG_f-rAM",
+    [string]$LogFile = "C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel\logs\backup-hebdo.log",
+    [string]$TelegramBotToken = $env:MAILWIZZ_TELEGRAM_BOT_TOKEN,
     [string]$TelegramChatId = ""  # Sera récupéré automatiquement
 )
 

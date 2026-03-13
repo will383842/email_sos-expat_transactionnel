@@ -2,7 +2,7 @@ Bonjour [FNAME],
 
 Ce sera notre dernier rappel.
 
-L'offre fondateur (5$ et 3$ à vie) va progressivement disparaître pour les nouveaux entrants. Ceux qui s'inscrivent aujourd'hui la gardent pour toujours.
+Vos commissions personnalisées ([COMMISSION_CLIENT_LAWYER] et [COMMISSION_CLIENT_EXPAT] par appel) vous attendent. Ceux qui s'inscrivent maintenant les gardent.
 
 https://sos-expat.com/devenir-chatter
 

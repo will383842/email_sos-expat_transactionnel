@@ -1,0 +1,13 @@
+Salut [FNAME] !
+
+Ton filleul [INACTIVE_RECRUIT_NAME] n'a rien partagé depuis [INACTIVE_RECRUIT_DAYS] jours. Ça arrive. La plupart des gens ont juste besoin d'un petit coup de pouce pour se relancer.
+
+Envoie-lui ce message :
+
+---
+Hey [INACTIVE_RECRUIT_NAME] ! Ça fait un moment qu'on ne t'a pas vu sur SOS-Expat. Pas de pression, mais je voulais te rappeler que ton lien est toujours actif et que chaque appel te rapporte. Même 10 minutes par jour dans un groupe WhatsApp, ça peut faire la différence. On est dans la même équipe, alors si tu as des questions ou si tu bloques sur quelque chose, dis-moi. Je suis là !
+---
+
+Rappelle-toi : quand [INACTIVE_RECRUIT_NAME] génère des appels, tu touches [COMMISSION_N1] sur chacun d'eux. Réactiver un filleul, c'est réactiver un revenu.
+
+L'équipe SOS-Expat

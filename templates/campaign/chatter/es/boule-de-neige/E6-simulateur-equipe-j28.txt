@@ -1,0 +1,21 @@
+Hola [FNAME]!
+
+Los numeros hablan por si solos.
+
+Hoy ganas [MONTHLY_EARNINGS] este mes con tus propios esfuerzos. Es un buen comienzo.
+
+Ahora mira lo que da con un equipo:
+
+- Con 3 ahijados activos: [PROJECTED_3_RECRUITS]/mes
+- Con 10 ahijados activos: [PROJECTED_10_RECRUITS]/mes
+
+La diferencia? No son cifras inventadas. Es una proyeccion basada en tus resultados actuales, multiplicada por el numero de personas en tu equipo.
+
+Y lo mejor: tus ahijados tambien pueden reclutar. Ahi cobras [COMMISSION_N2] por las llamadas de sus propios ahijados. El equipo crece sin que intervengas.
+
+Consulta tu simulador personalizado en tu dashboard:
+[DASHBOARD_URL]
+
+Cada ahijado que reclutes hoy es un ingreso recurrente manana.
+
+El equipo SOS-Expat

@@ -1,0 +1,21 @@
+Assunto: Ja podes levantar! [AVAILABLE_BALANCE] disponiveis
+
+[FNAME],
+
+Parabens! Atingiste o limiar de levantamento.
+
+Tens [AVAILABLE_BALANCE] disponiveis na tua conta. E dinheiro real que podes receber agora mesmo.
+
+Como funciona:
+- Limiar minimo: [WITHDRAWAL_THRESHOLD]
+- Taxa de levantamento: [WITHDRAWAL_FEE]
+- Recebes o restante diretamente na tua conta
+
+Clica aqui para pedir o teu levantamento: [DASHBOARD_URL]
+
+E enquanto o teu dinheiro chega, continua a partilhar o teu link. A proxima comissao pode estar a uma mensagem de distancia.
+
+O teu link: [LINK]
+
+Parabens,
+A equipa SOS-Expat

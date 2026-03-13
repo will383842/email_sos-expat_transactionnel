@@ -1,0 +1,20 @@
+Subject: Your [AVAILABLE_BALANCE] is sitting idle... 1 message = potentially [COMMISSION_CLIENT_LAWYER]
+
+[FNAME],
+
+It's been 7 days. Your link is asleep. So is your [AVAILABLE_BALANCE].
+
+Meanwhile, other chatters are sharing and cashing in. A single lawyer call earns you [COMMISSION_CLIENT_LAWYER]. An expat assistant call: [COMMISSION_CLIENT_EXPAT].
+
+All it takes is one message. Just one.
+
+Open WhatsApp and send this in an expat group:
+
+"Need a lawyer or help with your paperwork abroad? Call a pro in 2 minutes, wherever you are: [LINK]"
+
+30 seconds of your time. Potentially [COMMISSION_CLIENT_LAWYER] in your account.
+
+Your link: [LINK]
+
+We're counting on you,
+The SOS-Expat Team

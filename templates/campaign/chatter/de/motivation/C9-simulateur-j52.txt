@@ -1,0 +1,26 @@
+Betreff: [TEAM_SIZE] Rekruten x [COMMISSION_N1]/Anruf = automatisches Einkommen
+
+Hey [FNAME],
+
+Lass uns kurz zusammen rechnen.
+
+Heute hast du [TEAM_SIZE] Rekrut(en). Jeder ihrer Anrufe bringt dir [COMMISSION_N1].
+
+Stell dir jetzt vor:
+
+Mit 3 aktiven Rekruten:
+→ Monatliche Hochrechnung: [PROJECTED_3_RECRUITS]
+
+Mit 10 aktiven Rekruten:
+→ Monatliche Hochrechnung: [PROJECTED_10_RECRUITS]
+
+Und das ist OHNE deine eigenen direkten Provisionen ([COMMISSION_CLIENT_LAWYER] pro Anwalt-Anruf, [COMMISSION_CLIENT_EXPAT] pro Assistenten-Anruf).
+
+Das Prinzip ist einfach: Jede Person, die du rekrutierst, wird zu einer dauerhaften Einnahmequelle. Nicht einmalig. Bei jedem Anruf. Ohne zeitliche Begrenzung.
+
+Der Simulator in deinem Dashboard laesst dich mit den Zahlen spielen und genau sehen, wie viel du je nach Aktivitaet verdienen koenntest.
+
+Oeffne den Simulator: [DASHBOARD_URL]
+
+Passives Einkommen baut sich Rekrut fuer Rekrut auf,
+Das SOS-Expat Team

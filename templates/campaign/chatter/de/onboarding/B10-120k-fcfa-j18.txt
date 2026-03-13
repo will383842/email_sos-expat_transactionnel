@@ -1,0 +1,27 @@
+Hallo [FNAME]!
+
+Sind regelmaessige Einnahmen wirklich erreichbar?
+
+Ja — und so geht's, mit IHREN Provisionen:
+
+Szenario 1 — Solo
+- 2 aktive Facebook-Gruppen + WhatsApp + Reddit
+- 30 Minuten regelmaessige Aktivitaet pro Tag
+- Jeder Anwalt-Anruf bringt Ihnen [COMMISSION_CLIENT_LAWYER]
+- Jeder Assistenten-Anruf bringt Ihnen [COMMISSION_CLIENT_EXPAT]
+
+Szenario 2 — Mit Team
+- Sie generieren persoenlich Anrufe
+- Sie haben einige aktive Chatters unter sich
+- Sie verdienen zusaetzlich [COMMISSION_N1] bei jedem IHRER Anrufe
+
+Szenario 3 — Chatter-Kapitaen
+- Sie leiten ein Team aktiver Chatters
+- Provisionen auf deren Ergebnisse + Ihre eigenen
+- Passives Einkommen, das mit Ihrem Team waechst
+
+Der Schluessel: Regelmaessigkeit. 30 Minuten pro Tag, jeden Tag.
+
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

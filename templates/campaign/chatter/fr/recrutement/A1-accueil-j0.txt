@@ -28,12 +28,12 @@ On ne spam JAMAIS. Pas de lien balancé à froid. Pas de copier-coller en masse.
 
 Vos gains — tarifs fondateurs, à vie :
 
-- 5$ par appel avec un avocat
-- 3$ par appel avec un assistant expatrié
+- [COMMISSION_CLIENT_LAWYER] par appel avec un avocat
+- [COMMISSION_CLIENT_EXPAT] par appel avec un assistant expatrié
 
-Ces commissions sont réservées aux premiers Ambassadeurs qui nous rejoignent aujourd'hui. Les Chatters qui arriveront après vous ne verront pas ces tarifs. Vous les gardez à vie. Virement automatique. Aucun plafond. 197 pays.
+Ces commissions sont réservées aux Ambassadeurs qui nous rejoignent. Virement automatique. Aucun plafond. 197 pays.
 
-10 appels par semaine = 200$ par mois. Sans patron. Sans horaires. Depuis votre téléphone.
+Quelques appels par semaine et les revenus s'accumulent. Sans patron. Sans horaires. Depuis votre téléphone.
 
 ---
 

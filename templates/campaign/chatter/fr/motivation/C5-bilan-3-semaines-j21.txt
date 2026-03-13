@@ -1,0 +1,23 @@
+Objet : 3 semaines — voici où tu en es vraiment
+
+Hey [FNAME],
+
+Ça fait [DAYS_SINCE_REGISTRATION] jours que tu es chatter SOS-Expat.
+
+Tes chiffres :
+- Total gagné : [TOTAL_EARNED]
+- Solde disponible : [AVAILABLE_BALANCE]
+- Taille de ton équipe : [TEAM_SIZE] filleul(s)
+
+Si ces chiffres sont à zéro, pas de panique. La plupart des chatters qui gagnent vraiment ont mis 2 à 4 semaines avant de voir leurs premiers résultats. L'important c'est d'avoir des messages actifs dans des groupes actifs.
+
+Si tu as déjà des commissions, bravo — tu fais partie du top des chatters qui passent à l'action.
+
+Dans les deux cas, le plus important maintenant c'est de voir tes stats réelles et de savoir exactement ce qui fonctionne.
+
+Consulte ton tableau de bord : [DASHBOARD_URL]
+
+Tu y verras tes clics, tes appels, tes commissions — tout ce qu'il faut pour ajuster ta stratégie.
+
+On continue,
+L'équipe SOS-Expat

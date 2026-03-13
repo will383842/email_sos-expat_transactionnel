@@ -1,12 +1,11 @@
 Bonjour [FNAME] !
 
-Faisons un calcul simple ensemble :
+Faisons un calcul simple avec VOS commissions :
 
-2 appels avocat par jour → 60 par mois → 300$
-1 appel avocat par jour → 30 par mois → 150$
-5 appels avocat par semaine → 20 par mois → 100$
+Appel avocat = [COMMISSION_CLIENT_LAWYER] | Appel assistant = [COMMISSION_CLIENT_EXPAT]
 
-Et ça, c'est uniquement vos appels directs. Si vous avez une équipe de 5 Chatters actifs sous vous, multipliez par 2.
+Quelques appels par semaine → vos premières commissions arrivent vite.
+Plus vous êtes régulier, plus ça monte. Et si vous avez une équipe de Chatters actifs sous vous, vous gagnez aussi [COMMISSION_N1] sur chacun de leurs appels.
 
 Ces chiffres sont réels. Votre lien est actif. Il ne vous manque plus qu'une chose : commencer.
 

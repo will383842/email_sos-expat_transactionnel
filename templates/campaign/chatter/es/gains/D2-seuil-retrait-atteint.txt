@@ -1,0 +1,21 @@
+Asunto: Ya puedes retirar! [AVAILABLE_BALANCE] disponibles
+
+[FNAME],
+
+Enhorabuena! Has alcanzado el umbral de retiro.
+
+Tienes [AVAILABLE_BALANCE] disponibles en tu cuenta. Es dinero real que puedes recibir ahora mismo.
+
+Como funciona:
+- Umbral minimo: [WITHDRAWAL_THRESHOLD]
+- Gastos de retiro: [WITHDRAWAL_FEE]
+- Recibes el resto directamente en tu cuenta
+
+Haz clic aqui para solicitar tu retiro: [DASHBOARD_URL]
+
+Y mientras llega tu dinero, sigue compartiendo tu enlace. La proxima comision puede estar a un mensaje de distancia.
+
+Tu enlace: [LINK]
+
+Felicidades,
+El equipo SOS-Expat

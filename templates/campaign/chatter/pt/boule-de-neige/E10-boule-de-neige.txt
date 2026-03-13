@@ -1,0 +1,19 @@
+Ola [FNAME]!
+
+O efeito bola de neve acabou de acontecer.
+
+O afilhado do teu afilhado gerou uma chamada. Tu recebeste [COMMISSION_N2] sem teres mexido um dedo. E exatamente assim que o sistema funciona.
+
+Recapitulemos:
+- Ganhas as tuas proprias comissoes quando TU geras uma chamada
+- Ganhas [COMMISSION_N1] quando O TEU AFILHADO gera uma chamada
+- Ganhas [COMMISSION_N2] quando O AFILHADO DO TEU AFILHADO gera uma chamada
+
+E uma arvore que cresce sozinha. Quanto mais a tua equipa cresce, mais os ramos se multiplicam, mais os rendimentos caem.
+
+Visualiza a tua arvore de rendimentos no teu dashboard:
+[DASHBOARD_URL]
+
+Cada pessoa que recrutares pode recrutar outras. E tu ganhas em cada nivel.
+
+A equipa SOS-Expat

@@ -1,0 +1,23 @@
+Asunto: [FNAME], lo mas dificil ya paso
+
+Hola [FNAME],
+
+45 dias. Sigues aqui. Eso ya es enorme.
+
+La verdad: la mayoria de la gente abandona en las 2 primeras semanas. Tu has aguantado [DAYS_SINCE_REGISTRATION] dias. Tienes un enlace activo, conoces el sistema, sabes como funciona.
+
+Tus estadisticas a dia de hoy:
+- Total ganado: [TOTAL_EARNED]
+- Media por dia: [AVG_EARNINGS_PER_DAY]
+- Equipo: [TEAM_SIZE] ahijado(s)
+
+Lo mas dificil de la afiliacion es empezar y aguantar las primeras semanas. Eso ya esta hecho.
+
+Ahora tienes una ventaja que los nuevos no tienen: tus mensajes antiguos siguen circulando en los grupos. Cada dia que pasa, tu enlace llega a mas gente sin esfuerzo adicional.
+
+El siguiente paso? Comparte tu experiencia. Dile a otras personas que es posible ganar dinero ayudando a expatriados. Cada ahijado que reclutes te genera [COMMISSION_N1] por llamada que el produzca.
+
+Tu enlace para compartir y reclutar: [LINK]
+
+Estamos orgullosos de tenerte en el equipo,
+El equipo SOS-Expat

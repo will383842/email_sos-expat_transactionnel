@@ -1,0 +1,21 @@
+主题：可以提现了！[AVAILABLE_BALANCE] 可用
+
+[FNAME]，
+
+恭喜！你已经达到提现门槛。
+
+你的账户中有 [AVAILABLE_BALANCE] 可用。这是真金白银，你现在就可以收到。
+
+操作方式：
+- 最低金额：[WITHDRAWAL_THRESHOLD]
+- 提现手续费：[WITHDRAWAL_FEE]
+- 剩余金额直接转入你的账户
+
+点击这里申请提现：[DASHBOARD_URL]
+
+在等待到账的同时，继续分享你的链接。下一笔佣金可能就差一条消息。
+
+你的链接：[LINK]
+
+恭喜，
+SOS-Expat 团队

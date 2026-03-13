@@ -1,0 +1,27 @@
+Subject: 60 days — your personalized recap, [FNAME]
+
+Hi [FNAME],
+
+2 months on the chatter journey. Here's your full recap:
+
+--- YOUR 60-DAY RECAP ---
+Total earned: [TOTAL_EARNED]
+Earnings this month: [MONTHLY_EARNINGS]
+Available balance: [AVAILABLE_BALANCE]
+Withdrawal threshold: [WITHDRAWAL_THRESHOLD]
+Team: [TEAM_SIZE] recruit(s)
+Level: [LEVEL_NAME]
+Ranking: #[RANK]
+Current streak: [CURRENT_STREAK] day(s)
+---
+
+These numbers tell your story. Whether you're at zero or several hundred dollars, you now have 60 days of experience and a network of messages that keeps working.
+
+What comes next depends on one simple decision: do you keep building, or do you walk away from what you've already put in place?
+
+Chatters who make it past the 60-day mark are the ones who end up living off their commissions. You're there.
+
+Your dashboard with all your detailed stats: [DASHBOARD_URL]
+
+We're counting on you,
+The SOS-Expat Team

@@ -1,0 +1,10 @@
+Hi [FNAME],
+
+This will be our last reminder.
+
+Your personalized commissions ([COMMISSION_CLIENT_LAWYER] and [COMMISSION_CLIENT_EXPAT] per call) are waiting for you. Those who sign up now keep them.
+
+https://sos-expat.com/devenir-chatter
+
+All the best no matter what,
+The SOS-Expat Team

@@ -1,0 +1,18 @@
+Salut [FNAME] !
+
+Ton premier filleul [NEW_RECRUIT_NAME] vient de s'inscrire. Bravo, c'est une étape importante !
+
+Maintenant, la clé : aide-le à démarrer. Un filleul bien accompagné dans ses premiers jours devient actif. Un filleul laissé seul abandonne.
+
+Envoie-lui ce message tout de suite :
+
+---
+Bienvenue [NEW_RECRUIT_NAME] ! Content(e) que tu aies rejoint SOS-Expat. Pour bien démarrer : connecte-toi à ton dashboard, copie ton lien affilié, et rejoins 2-3 groupes WhatsApp ou Facebook de francophones à l'étranger. Observe d'abord, aide les gens, et quand quelqu'un a un vrai problème juridique ou administratif, parle-lui de SOS-Expat. C'est aussi simple que ça. Je suis là si tu as des questions !
+---
+
+Plus [NEW_RECRUIT_NAME] génère d'appels, plus tu gagnes [COMMISSION_N1] par appel. Votre réussite est liée.
+
+Suis l'activité de ton équipe ici :
+[DASHBOARD_URL]
+
+L'équipe SOS-Expat

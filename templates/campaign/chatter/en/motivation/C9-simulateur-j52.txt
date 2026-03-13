@@ -1,0 +1,26 @@
+Subject: [TEAM_SIZE] recruits x [COMMISSION_N1]/call = automatic income
+
+Hey [FNAME],
+
+Let's do a quick calculation together.
+
+Today, you have [TEAM_SIZE] recruit(s). Each of their calls earns you [COMMISSION_N1].
+
+Now imagine:
+
+With 3 active recruits:
+→ Monthly projection: [PROJECTED_3_RECRUITS]
+
+With 10 active recruits:
+→ Monthly projection: [PROJECTED_10_RECRUITS]
+
+And that's WITHOUT counting your own direct commissions ([COMMISSION_CLIENT_LAWYER] per lawyer call, [COMMISSION_CLIENT_EXPAT] per assistant call).
+
+The principle is simple: every person you recruit becomes a permanent income source. Not once. With every call. With no time limit.
+
+The simulator in your dashboard lets you play with the numbers and see exactly how much you could earn based on your activity.
+
+Open the simulator: [DASHBOARD_URL]
+
+Passive income is built one recruit at a time,
+The SOS-Expat Team

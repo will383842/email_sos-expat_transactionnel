@@ -1,0 +1,23 @@
+Objet : [FNAME], le plus dur est derrière toi
+
+Salut [FNAME],
+
+45 jours. Tu es encore là. C'est déjà énorme.
+
+La vérité : la plupart des gens abandonnent dans les 2 premières semaines. Toi, tu as tenu [DAYS_SINCE_REGISTRATION] jours. Tu as un lien actif, tu connais le système, tu sais comment ça marche.
+
+Tes stats à ce jour :
+- Total gagné : [TOTAL_EARNED]
+- Moyenne par jour : [AVG_EARNINGS_PER_DAY]
+- Équipe : [TEAM_SIZE] filleul(s)
+
+Le plus dur dans l'affiliation, c'est de commencer et de tenir les premières semaines. C'est fait.
+
+Maintenant, tu as un avantage que les nouveaux n'ont pas : tes anciens messages continuent de circuler dans les groupes. Chaque jour qui passe, ton lien touche plus de monde sans effort supplémentaire.
+
+La prochaine étape ? Partage ton expérience. Dis à d'autres personnes que c'est possible de gagner de l'argent en aidant des expatriés. Chaque filleul que tu recrutes te rapporte [COMMISSION_N1] par appel qu'il génère.
+
+Ton lien pour partager et recruter : [LINK]
+
+On est fiers de t'avoir dans l'équipe,
+L'équipe SOS-Expat

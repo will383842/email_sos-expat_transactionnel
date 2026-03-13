@@ -1,0 +1,20 @@
+Assunto: Os teus [AVAILABLE_BALANCE] dormem... 1 mensagem = potencialmente [COMMISSION_CLIENT_LAWYER]
+
+[FNAME],
+
+Ja passaram 7 dias. O teu link dorme. Os teus [AVAILABLE_BALANCE] tambem.
+
+Entretanto, outros chatters partilham e recebem. Uma unica chamada a advogado gera-te [COMMISSION_CLIENT_LAWYER]. Uma chamada a assistente expat: [COMMISSION_CLIENT_EXPAT].
+
+So precisas de uma mensagem. Uma unica.
+
+Abre o WhatsApp e envia isto num grupo de expatriados:
+
+"Precisas de um advogado ou de ajuda com os teus tramites no estrangeiro? Liga para um profissional em 2 min, estejas onde estiveres: [LINK]"
+
+30 segundos do teu tempo. Potencialmente [COMMISSION_CLIENT_LAWYER] na tua conta.
+
+O teu link: [LINK]
+
+Contamos contigo,
+A equipa SOS-Expat

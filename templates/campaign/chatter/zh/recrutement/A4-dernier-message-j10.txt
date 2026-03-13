@@ -1,0 +1,10 @@
+你好 [FNAME]，
+
+这是我们最后一次提醒了。
+
+创始人优惠（终身 [COMMISSION_CLIENT_LAWYER] 和 [COMMISSION_CLIENT_EXPAT]）将逐步对新加入者关闭。今天注册的人将永久保留这个费率。
+
+https://sos-expat.com/devenir-chatter
+
+无论如何，祝你一切顺利，
+SOS-Expat 团队

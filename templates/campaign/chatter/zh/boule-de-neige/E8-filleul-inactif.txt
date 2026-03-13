@@ -1,0 +1,13 @@
+你好 [FNAME]！
+
+你的成员 [INACTIVE_RECRUIT_NAME] 已经 [INACTIVE_RECRUIT_DAYS] 天没有分享任何东西了。这很正常。大多数人只需要一个小推动就能重新开始。
+
+给他发这条消息：
+
+---
+嘿 [INACTIVE_RECRUIT_NAME]！好久没在 SOS-Expat 上看到你了。不是给你压力，但想提醒你，你的链接仍然有效，每次通话都能给你赚钱。哪怕每天在 WhatsApp 群里花10分钟，都能有所不同。我们是一个团队，如果你有问题或遇到困难，告诉我。我在这里！
+---
+
+记住：当 [INACTIVE_RECRUIT_NAME] 产生通话时，你每次都能获得 [COMMISSION_N1]。重新激活一个成员，就是重新激活一个收入来源。
+
+SOS-Expat 团队

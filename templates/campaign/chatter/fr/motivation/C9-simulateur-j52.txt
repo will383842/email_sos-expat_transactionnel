@@ -1,0 +1,26 @@
+Objet : [TEAM_SIZE] filleuls × [COMMISSION_N1]/appel = revenu automatique
+
+Hey [FNAME],
+
+Faisons un calcul rapide ensemble.
+
+Aujourd'hui, tu as [TEAM_SIZE] filleul(s). Chacun de leurs appels te rapporte [COMMISSION_N1].
+
+Maintenant imagine :
+
+Avec 3 filleuls actifs :
+→ Projection mensuelle : [PROJECTED_3_RECRUITS]
+
+Avec 10 filleuls actifs :
+→ Projection mensuelle : [PROJECTED_10_RECRUITS]
+
+Et ça, c'est SANS compter tes propres commissions directes ([COMMISSION_CLIENT_LAWYER] par appel avocat, [COMMISSION_CLIENT_EXPAT] par appel assistant).
+
+Le principe est simple : chaque personne que tu recrutes devient une source de revenus permanente. Pas une fois. À chaque appel. Sans limite dans le temps.
+
+Le simulateur dans ton dashboard te permet de jouer avec les chiffres et voir exactement combien tu pourrais gagner selon ton activité.
+
+Ouvre le simulateur : [DASHBOARD_URL]
+
+Les revenus passifs se construisent filleul par filleul,
+L'équipe SOS-Expat

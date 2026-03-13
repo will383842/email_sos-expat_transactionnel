@@ -1,0 +1,18 @@
+Subject: [LAST_COMMISSION_AMOUNT] in your account! Here's how to double it
+
+Hey [FNAME],
+
+IT HAPPENED! Your first commission just landed: [LAST_COMMISSION_AMOUNT] earned from a [LAST_COMMISSION_TYPE].
+
+It's real. It's in your account. And it's only the beginning.
+
+You know what separates those who earn [LAST_COMMISSION_AMOUNT] from those who earn 10x more? One single move: sharing their link in 2 WhatsApp groups. That's it.
+
+Your link: [LINK]
+
+Copy it, open WhatsApp, and send it to 2 expat groups. Not tomorrow. Right now.
+
+Every call generated = another commission for you.
+
+See you soon for your next commission,
+The SOS-Expat Team

@@ -1,0 +1,21 @@
+Assunto: 5 afilhados = [PROJECTED_3_RECRUITS]/mes em passivo
+
+[FNAME],
+
+5 afilhados ativos. Fazes parte dos chatters serios.
+
+Aqui estao os teus numeros reais:
+- Equipa: [TEAM_SIZE] afilhados
+- Total ganho: [TOTAL_EARNED]
+- Saldo disponivel: [AVAILABLE_BALANCE]
+
+Com 5 afilhados ativos, estas a caminho de [PROJECTED_3_RECRUITS]/mes de rendimentos passivos. E cada novo afilhado acelera a maquina.
+
+Consulta as tuas estatisticas detalhadas e projecoes no teu dashboard: [DASHBOARD_URL]
+
+Os teus numeros falam por si. Continua a recrutar, continua a ganhar.
+
+O teu link: [LINK]
+
+Impressionante,
+A equipa SOS-Expat

@@ -1,0 +1,16 @@
+Hallo [FNAME]!
+
+Stellen Sie sich vor: Sie haben 5 aktive Personen in Ihrem Team. Jede generiert jede Woche Anrufe. Und Sie verdienen [COMMISSION_N1] bei jedem ihrer Anrufe — ohne etwas Zusaetzliches tun zu muessen.
+
+Das ist die Kraft der Rekrutierung.
+
+Wie Sie Ihren ersten Chatter rekrutieren:
+- Sprechen Sie mit jemandem in Ihrem Umfeld, der sich in sozialen Medien gut auskennt
+- Teilen Sie Ihren Rekrutierungslink aus Ihrem Dashboard: [LINK]
+- Erklaeren Sie genau, was Sie machen — es ist einfach und konkret
+
+Ihr Team arbeitet, Sie verdienen mit.
+
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

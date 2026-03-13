@@ -1,0 +1,25 @@
+Betreff: 1 Monat! Dein persoenlicher Rueckblick + ein Tool, das du vielleicht nicht nutzt
+
+Hallo [FNAME],
+
+30 Tage. Du bist offiziell ein Chatter mit Erfahrung.
+
+Dein Monatsrueckblick:
+- Einnahmen diesen Monat: [MONTHLY_EARNINGS]
+- Gesamt seit Beginn: [TOTAL_EARNED]
+- Team: [TEAM_SIZE] Rekrut(en)
+- Level: [LEVEL_NAME]
+
+Es gibt ein Tool, das viele Chatter unterschaetzen: den QR-Code.
+
+Dein persoenlicher QR-Code leitet direkt zu deinem Affiliate-Link weiter. Du kannst ihn ueberall einsetzen:
+- Als temporaeres WhatsApp-Profilbild
+- In einer Instagram- oder Facebook-Story
+- Ausgedruckt auf einem Flyer in einem Gemeindezentrum
+- Als Bild in einer Nachricht verschickt
+
+Er ist eine visuelle Abkuerzung zu deinem Link. Leute scannen, rufen an, du verdienst.
+
+Lade deinen QR-Code hier herunter: [QR_CODE_URL]
+
+Das SOS-Expat Team

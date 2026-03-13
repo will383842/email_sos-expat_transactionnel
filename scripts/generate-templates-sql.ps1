@@ -4,8 +4,8 @@
 
 $ErrorActionPreference = "Stop"
 
-$TemplatesPath = "C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing\templates"
-$OutputFile = "C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing\backup-cold\templates-import.sql"
+$TemplatesPath = "C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel\templates"
+$OutputFile = "C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel\backup-cold\templates-import.sql"
 
 # Customer ID (admin MailWizz - a verifier dans la base)
 $CustomerId = 1
@@ -135,5 +135,5 @@ Write-Host "Templates: $count"
 Write-Host ""
 Write-Host "PROCHAINE ETAPE:"
 Write-Host "  1. scp `"$OutputFile`" root@46.62.168.55:/root/"
-Write-Host "  2. mysql -u mailapp -p'MailWizz2026SOS!' mailapp < /root/templates-import.sql"
+Write-Host "  2. mysql -u mailapp -p`$MAILWIZZ_DB_PASSWORD mailapp < /root/templates-import.sql"
 Write-Host ""

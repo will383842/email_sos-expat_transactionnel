@@ -3,15 +3,20 @@ Bonjour [FNAME] !
 On ne va pas vous mentir avec des promesses irréalistes. Voici ce que gagnent réellement nos Chatters selon leur niveau d'engagement :
 
 Chatters débutants (moins de 30 min par jour, 1-2 groupes)
-→ 20 à 50$ par mois
+→ Quelques commissions par semaine, un bon complément
 
 Chatters réguliers (30 à 60 min par jour, 3-5 groupes actifs)
-→ 100 à 200$ par mois
+→ Des revenus réguliers et croissants chaque mois
 
 Chatters avec équipe (actifs + recrutement)
-→ 300 à 600$ par mois
+→ Revenus personnels + [COMMISSION_N1] par appel de chaque filleul
 
 Où voulez-vous être dans 30 jours ? Tout dépend de ce que vous faites aujourd'hui.
+
+Vos commissions personnelles :
+- Appel avocat : [COMMISSION_CLIENT_LAWYER]
+- Appel assistant : [COMMISSION_CLIENT_EXPAT]
+- Par appel de vos filleuls : [COMMISSION_N1]
 
 [DASHBOARD_URL]
 

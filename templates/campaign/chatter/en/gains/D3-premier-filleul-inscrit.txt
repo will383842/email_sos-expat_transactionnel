@@ -1,0 +1,16 @@
+Subject: Your recruit [NEW_RECRUIT_NAME] just signed up! Help them succeed
+
+[FNAME],
+
+Great news! [NEW_RECRUIT_NAME] just signed up thanks to you.
+
+Every call [NEW_RECRUIT_NAME] generates will earn you [COMMISSION_N1]. Without doing anything extra. But for that to happen, they need to get off to a good start.
+
+Send them this message now:
+
+"Hey [NEW_RECRUIT_NAME]! Welcome to SOS-Expat. The easiest way to start: share your link in 2-3 WhatsApp groups for expats. Every call earns you a commission. If you have any questions, I'm here!"
+
+Chatters who help their recruits earn on average 3x more. It makes sense: when your team wins, you win.
+
+Your move,
+The SOS-Expat Team

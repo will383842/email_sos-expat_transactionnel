@@ -1,0 +1,13 @@
+Hallo [FNAME]!
+
+Wir moechten sicherstellen, dass Sie etwas Wichtiges verstanden haben.
+
+Ihre Provisionen — [COMMISSION_CLIENT_LAWYER] pro Anwaltsanruf und [COMMISSION_CLIENT_EXPAT] pro Assistentenanruf — sind lebenslang fuer Sie gesichert. Das sind Tarife, die Ambassadeuren wie Ihnen vorbehalten sind.
+
+Chatters, die sich in 6 Monaten anmelden, werden diese Tarife nicht bekommen. Sie schon. Fuer immer. Bei jedem Anruf. Ohne Ausnahme.
+
+Jeder Tag ohne Aktion bedeutet Anrufe, die jemand anderes an Ihrer Stelle generiert. Ihr Link ist bereit. Die deutschsprachigen Expats, die Hilfe brauchen, sind da draussen. Es fehlt nur Sie.
+
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

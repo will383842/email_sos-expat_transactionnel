@@ -1,0 +1,18 @@
+Hallo [FNAME]!
+
+Dein erster Rekrut [NEW_RECRUIT_NAME] hat sich gerade angemeldet. Glueckwunsch — das ist ein wichtiger Meilenstein!
+
+Jetzt der Schluessel: Hilf ihm beim Start. Ein Rekrut, der in den ersten Tagen gut begleitet wird, wird aktiv. Ein allein gelassener Rekrut gibt auf.
+
+Schick ihm sofort diese Nachricht:
+
+---
+Willkommen [NEW_RECRUIT_NAME]! Schoen, dass du bei SOS-Expat dabei bist. Um gut zu starten: Meld dich in deinem Dashboard an, kopiere deinen Affiliate-Link und tritt 2-3 WhatsApp- oder Facebook-Gruppen fuer Expats im Ausland bei. Beobachte erst, hilf den Leuten, und wenn jemand ein echtes rechtliches oder administratives Problem hat, erzaehl ihm von SOS-Expat. So einfach ist das. Ich bin da, wenn du Fragen hast!
+---
+
+Je mehr Anrufe [NEW_RECRUIT_NAME] generiert, desto mehr verdienst du [COMMISSION_N1] pro Anruf. Euer Erfolg ist miteinander verbunden.
+
+Verfolge die Aktivitaet deines Teams hier:
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

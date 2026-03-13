@@ -1,0 +1,26 @@
+Asunto: [TEAM_SIZE] ahijados x [COMMISSION_N1]/llamada = ingreso automatico
+
+Hey [FNAME],
+
+Hagamos un calculo rapido juntos.
+
+Hoy tienes [TEAM_SIZE] ahijado(s). Cada una de sus llamadas te genera [COMMISSION_N1].
+
+Ahora imagina:
+
+Con 3 ahijados activos:
+→ Proyeccion mensual: [PROJECTED_3_RECRUITS]
+
+Con 10 ahijados activos:
+→ Proyeccion mensual: [PROJECTED_10_RECRUITS]
+
+Y eso es SIN contar tus propias comisiones directas ([COMMISSION_CLIENT_LAWYER] por llamada a abogado, [COMMISSION_CLIENT_EXPAT] por llamada a asistente).
+
+El principio es simple: cada persona que reclutes se convierte en una fuente de ingresos permanente. No una vez. En cada llamada. Sin limite de tiempo.
+
+El simulador en tu dashboard te permite jugar con los numeros y ver exactamente cuanto podrias ganar segun tu actividad.
+
+Abre el simulador: [DASHBOARD_URL]
+
+Los ingresos pasivos se construyen ahijado a ahijado,
+El equipo SOS-Expat

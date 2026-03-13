@@ -1,0 +1,25 @@
+Assunto: 1 mes! O teu balanco pessoal + uma ferramenta que talvez nao uses
+
+Ola [FNAME],
+
+30 dias. Es oficialmente um chatter com experiencia.
+
+O teu balanco do mes:
+- Ganhos este mes: [MONTHLY_EARNINGS]
+- Total desde o inicio: [TOTAL_EARNED]
+- Equipa: [TEAM_SIZE] afilhado(s)
+- Nivel: [LEVEL_NAME]
+
+Ha uma ferramenta que muitos chatters subestimam: o codigo QR.
+
+O teu codigo QR pessoal redireciona diretamente para o teu link de afiliado. Podes usa-lo em todo o lado:
+- Como foto de perfil temporaria no WhatsApp
+- Numa story do Instagram ou Facebook
+- Impresso num folheto num centro comunitario
+- Enviado como imagem numa conversa
+
+E um atalho visual para o teu link. As pessoas fazem scan, ligam, tu ganhas.
+
+Descarrega o teu codigo QR aqui: [QR_CODE_URL]
+
+A equipa SOS-Expat

@@ -1,0 +1,18 @@
+你好 [FNAME]！
+
+让我给你讲两个朋友的故事。
+
+Moussa 在海外人士的 WhatsApp 群里分享他的 SOS-Expat 链接。进展顺利，他安安静静地赚着佣金。有一天，他跟朋友 Ibra 说了这件事。Ibra 通过他的链接注册了。
+
+Ibra 在 Facebook 上很活跃。他加入了加拿大、比利时、美国的华人群。很快，他也开始产生通话了。
+
+结果：Moussa 继续赚自己的佣金。但除此之外，他还从 Ibra 的每次通话中获得 [COMMISSION_N1]。当 Ibra 又招募了他的表妹 Awa 时，Moussa 开始从 Awa 的通话中获得 [COMMISSION_N2]。
+
+Moussa 只给一个朋友发了一条消息。其余的一切自然发生了。
+
+这就是滚雪球效应。
+
+把这个故事分享给某个人，附上你的链接：
+[LINK]
+
+SOS-Expat 团队

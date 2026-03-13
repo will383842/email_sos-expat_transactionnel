@@ -1,0 +1,21 @@
+Betreff: Du kannst auszahlen! [AVAILABLE_BALANCE] verfuegbar
+
+[FNAME],
+
+Glueckwunsch! Du hast die Auszahlungsschwelle erreicht.
+
+Du hast [AVAILABLE_BALANCE] auf deinem Konto verfuegbar. Das ist echtes Geld, das du sofort erhalten kannst.
+
+So funktioniert es:
+- Mindestschwelle: [WITHDRAWAL_THRESHOLD]
+- Auszahlungsgebuehr: [WITHDRAWAL_FEE]
+- Den Rest erhaeltst du direkt auf dein Konto
+
+Klicke hier, um deine Auszahlung anzufordern: [DASHBOARD_URL]
+
+Und waehrend dein Geld unterwegs ist, teile weiter deinen Link. Die naechste Provision ist vielleicht nur eine Nachricht entfernt.
+
+Dein Link: [LINK]
+
+Herzlichen Glueckwunsch,
+Das SOS-Expat Team

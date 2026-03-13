@@ -1,0 +1,18 @@
+Asunto: Ya esta! Ganas en automatico gracias a [NEW_RECRUIT_NAME]
+
+[FNAME],
+
+Los ingresos pasivos empiezan ahora.
+
+[NEW_RECRUIT_NAME] acaba de generar su primera comision. Y tu has ganado [COMMISSION_N1] sin mover un dedo.
+
+Asi es exactamente como funciona: tu ahijado comparte, los expatriados llaman, y tu cobras una comision. Cada vez. Automaticamente.
+
+Imagina con 2 ahijados mas. Luego 5. Luego 10.
+
+Recluta a tus proximos ahijados compartiendo tu enlace: [LINK]
+
+Cuanto mas crece tu equipo, mas ganas sin esfuerzo. Es matematico.
+
+Sigue asi,
+El equipo SOS-Expat

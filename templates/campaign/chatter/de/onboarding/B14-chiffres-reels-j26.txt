@@ -1,0 +1,23 @@
+Hallo [FNAME]!
+
+Wir werden Ihnen keine unrealistischen Versprechen machen. Hier ist, was unsere Chatters tatsaechlich verdienen, je nach Engagement-Level:
+
+Einsteiger-Chatters (weniger als 30 Min. pro Tag, 1-2 Gruppen)
+→ Einige Provisionen pro Woche, ein guter Nebenverdienst
+
+Regelmaessige Chatters (30 bis 60 Min. pro Tag, 3-5 aktive Gruppen)
+→ Regelmaessige und steigende Einnahmen jeden Monat
+
+Chatters mit Team (aktiv + Rekrutierung)
+→ Persoenliche Einnahmen + [COMMISSION_N1] pro Anruf von jedem Rekruten
+
+Wo wollen Sie in 30 Tagen stehen? Alles haengt davon ab, was Sie heute tun.
+
+Ihre persoenlichen Provisionen:
+- Anwalt-Anruf: [COMMISSION_CLIENT_LAWYER]
+- Assistenten-Anruf: [COMMISSION_CLIENT_EXPAT]
+- Pro Anruf Ihrer Rekruten: [COMMISSION_N1]
+
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

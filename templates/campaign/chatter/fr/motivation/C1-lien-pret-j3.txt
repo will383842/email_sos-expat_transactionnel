@@ -1,0 +1,17 @@
+Objet : [FNAME], ton lien est prêt — 1 seul groupe suffit pour commencer
+
+Hey [FNAME],
+
+Ton lien d'affilié est actif depuis [DAYS_SINCE_REGISTRATION] jours. Un seul partage dans un groupe WhatsApp peut déclencher ta première commission.
+
+Pas besoin de stratégie compliquée. Copie ce message et colle-le dans UN groupe WhatsApp d'expatriés :
+
+---
+🆘 Tu es expatrié et tu as besoin d'aide juridique ou administrative ? Appelle un avocat ou un assistant expat en quelques secondes, où que tu sois. Service dispo 24h/24 :
+[LINK]
+---
+
+C'est tout. Un message, un groupe. Chaque appel passé via ton lien te rapporte [COMMISSION_CLIENT_LAWYER] (avocat) ou [COMMISSION_CLIENT_EXPAT] (assistant expat).
+
+À toi de jouer,
+L'équipe SOS-Expat

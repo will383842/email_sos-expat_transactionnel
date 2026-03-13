@@ -1,0 +1,21 @@
+Salut [FNAME] !
+
+Les chiffres parlent d'eux-mêmes.
+
+Aujourd'hui, tu gagnes [MONTHLY_EARNINGS] ce mois-ci avec tes propres efforts. C'est un bon début.
+
+Maintenant regarde ce que ça donne avec une équipe :
+
+- Avec 3 filleuls actifs : [PROJECTED_3_RECRUITS]/mois
+- Avec 10 filleuls actifs : [PROJECTED_10_RECRUITS]/mois
+
+La différence ? Ce ne sont pas des chiffres inventés. C'est une projection basée sur tes résultats actuels, multipliée par le nombre de personnes dans ton équipe.
+
+Et le plus beau : tes filleuls peuvent eux aussi recruter. Là, tu touches [COMMISSION_N2] sur les appels de leurs propres filleuls. L'équipe grandit sans que tu interviennes.
+
+Consulte ton simulateur personnalisé sur ton dashboard :
+[DASHBOARD_URL]
+
+Chaque filleul que tu recrutes aujourd'hui, c'est un revenu récurrent demain.
+
+L'équipe SOS-Expat

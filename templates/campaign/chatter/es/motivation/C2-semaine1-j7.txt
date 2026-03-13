@@ -1,0 +1,18 @@
+Asunto: Semana 1 completada — esto es lo que hacen los chatters que ganan
+
+Hola [FNAME],
+
+Ya van 7 dias. Esta es la diferencia entre los chatters que ganan y los que abandonan:
+
+Los primeros comparten su enlace en al menos 3 grupos por semana. No 30. No 100. Tres.
+
+No hacen spam. Responden a personas que preguntan sobre visados, derecho laboral, tramites administrativos... y colocan su enlace como respuesta. De forma natural.
+
+Resultado: comisiones de [COMMISSION_CLIENT_LAWYER] por llamada a abogado y [COMMISSION_CLIENT_EXPAT] por llamada a asistente, que caen sin esfuerzo adicional.
+
+Tu panel de control te muestra exactamente donde estas — clics, llamadas, comisiones.
+
+Echale un vistazo ahora: [DASHBOARD_URL]
+
+Hasta pronto,
+El equipo SOS-Expat

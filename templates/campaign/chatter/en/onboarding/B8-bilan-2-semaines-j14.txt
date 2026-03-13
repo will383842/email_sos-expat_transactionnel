@@ -1,0 +1,18 @@
+Hi [FNAME]!
+
+It's been 2 weeks since you joined the team. This is the perfect time to check in.
+
+Log in to your dashboard and look at your stats:
+
+How many clicks on your link?
+How many calls generated?
+How much have you earned?
+Have you recruited anyone yet?
+
+If your numbers look good: congratulations, keep going! You're on track to join our Dakar office.
+
+If your numbers are at zero: don't panic. Reply to this email and tell us where you're at. We'll help you get things moving right away.
+
+[DASHBOARD_URL]
+
+The SOS-Expat Team

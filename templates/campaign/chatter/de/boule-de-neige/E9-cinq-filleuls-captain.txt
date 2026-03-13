@@ -1,0 +1,16 @@
+Hallo [FNAME]!
+
+Du hast [TEAM_SIZE] Rekruten in deinem Team. Das ist mehr als die meisten Chatter. Du baust etwas Ernstes auf.
+
+Es ist Zeit, auf Captain aufzusteigen.
+
+Das Captain-Programm — was ist das? Es ist die Anerkennung fuer Chatter, die bewiesen haben, dass sie rekrutieren und ein Team fuehren koennen. Exklusive Vorteile, bevorzugter Support und neue Moeglichkeiten.
+
+Du hast schon das Schwierigste geschafft: ein Team aufzubauen. Jetzt strukturiere es.
+
+Entdecke das Captain-Programm hier:
+[DASHBOARD_URL]
+
+Du hast bereits [TOTAL_EARNED] insgesamt verdient. Mit einem organisierten Team ist das erst der Anfang.
+
+Das SOS-Expat Team

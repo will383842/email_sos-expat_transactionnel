@@ -1,0 +1,18 @@
+Subject: Money's in your account! [WITHDRAWAL_AMOUNT] sent
+
+[FNAME],
+
+Done. [WITHDRAWAL_AMOUNT] has just been sent to your account.
+
+This wasn't a promise. This wasn't "someday maybe." It's real, it's done, it's yours.
+
+You're one of the chatters who took action. And that deserves to be shared.
+
+Send this testimonial to your contacts:
+
+"I just received my first payment from SOS-Expat! I share a link, expats call lawyers or assistants, and I earn a commission on every call. It's simple and it really pays. Join me: [LINK]"
+
+Your story inspires. Share it.
+
+Congratulations,
+The SOS-Expat Team

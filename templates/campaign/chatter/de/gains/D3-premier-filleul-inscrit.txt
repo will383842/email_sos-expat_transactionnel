@@ -1,0 +1,16 @@
+Betreff: Dein Rekrut [NEW_RECRUIT_NAME] hat sich angemeldet! Hilf ihm durchzustarten
+
+[FNAME],
+
+Tolle Neuigkeiten! [NEW_RECRUIT_NAME] hat sich dank dir angemeldet.
+
+Jeder Anruf, den [NEW_RECRUIT_NAME] generiert, bringt dir [COMMISSION_N1]. Ohne dass du etwas extra tun musst. Aber dafuer muss er gut starten.
+
+Schicke ihm jetzt diese Nachricht:
+
+"Hallo [NEW_RECRUIT_NAME]! Willkommen bei SOS-Expat. Am einfachsten startest du so: Teile deinen Link in 2-3 WhatsApp-Gruppen fuer Expats. Jeder Anruf bringt dir eine Provision. Falls du Fragen hast, bin ich da!"
+
+Chatter, die ihren Rekruten helfen, verdienen durchschnittlich 3x mehr. Logisch: Wenn dein Team gewinnt, gewinnst du.
+
+Du bist dran,
+Das SOS-Expat Team

@@ -1,0 +1,21 @@
+Hi [FNAME]!
+
+The numbers speak for themselves.
+
+Right now, you're earning [MONTHLY_EARNINGS] this month from your own efforts. That's a good start.
+
+Now look at what it looks like with a team:
+
+- With 3 active recruits: [PROJECTED_3_RECRUITS]/month
+- With 10 active recruits: [PROJECTED_10_RECRUITS]/month
+
+The difference? These aren't made-up numbers. It's a projection based on your actual results, multiplied by the number of people on your team.
+
+And the best part: your recruits can recruit too. Then you earn [COMMISSION_N2] on calls from their own recruits. The team grows without you lifting a finger.
+
+Check your personalized simulator on your dashboard:
+[DASHBOARD_URL]
+
+Every recruit you bring in today is recurring income tomorrow.
+
+The SOS-Expat Team

@@ -1,0 +1,23 @@
+Betreff: 3 Wochen — hier stehst du wirklich
+
+Hey [FNAME],
+
+Es sind [DAYS_SINCE_REGISTRATION] Tage, seit du SOS-Expat Chatter geworden bist.
+
+Deine Zahlen:
+- Insgesamt verdient: [TOTAL_EARNED]
+- Verfuegbares Guthaben: [AVAILABLE_BALANCE]
+- Teamgroesse: [TEAM_SIZE] Rekrut(en)
+
+Wenn diese Zahlen bei null stehen — keine Panik. Die meisten Chatter, die wirklich verdienen, haben 2 bis 4 Wochen gebraucht, bevor sie erste Ergebnisse gesehen haben. Wichtig ist, aktive Nachrichten in aktiven Gruppen zu haben.
+
+Wenn du schon Provisionen hast — Glueckwunsch, du gehoerst zu den Top-Chattern, die ins Handeln kommen.
+
+In beiden Faellen ist jetzt das Wichtigste: deine echten Statistiken pruefen und genau wissen, was funktioniert.
+
+Pruefe dein Dashboard: [DASHBOARD_URL]
+
+Dort siehst du deine Klicks, Anrufe, Provisionen — alles, was du brauchst, um deine Strategie anzupassen.
+
+Weiter geht's,
+Das SOS-Expat Team

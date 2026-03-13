@@ -1,0 +1,23 @@
+Subject: 3 weeks in — here's where you really stand
+
+Hey [FNAME],
+
+It's been [DAYS_SINCE_REGISTRATION] days since you became an SOS-Expat chatter.
+
+Your numbers:
+- Total earned: [TOTAL_EARNED]
+- Available balance: [AVAILABLE_BALANCE]
+- Team size: [TEAM_SIZE] recruit(s)
+
+If these numbers are at zero, don't panic. Most chatters who actually earn took 2 to 4 weeks before seeing their first results. What matters is having active messages in active groups.
+
+If you already have commissions — congrats, you're among the top chatters who take action.
+
+Either way, the most important thing now is to check your real stats and know exactly what's working.
+
+Check your dashboard: [DASHBOARD_URL]
+
+You'll see your clicks, calls, commissions — everything you need to fine-tune your strategy.
+
+Let's keep going,
+The SOS-Expat Team

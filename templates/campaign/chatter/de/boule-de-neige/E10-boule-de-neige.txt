@@ -1,0 +1,19 @@
+Hallo [FNAME]!
+
+Der Schneeballeffekt ist gerade eingetreten.
+
+Der Rekrut deines Rekruten hat einen Anruf generiert. Du hast [COMMISSION_N2] verdient, ohne einen Finger zu ruehren. Genau so funktioniert das System.
+
+Fassen wir zusammen:
+- Du verdienst deine eigenen Provisionen, wenn DU einen Anruf generierst
+- Du verdienst [COMMISSION_N1], wenn DEIN Rekrut einen Anruf generiert
+- Du verdienst [COMMISSION_N2], wenn DER REKRUT DEINES REKRUTEN einen Anruf generiert
+
+Es ist ein Baum, der von selbst waechst. Je groesser dein Team wird, desto mehr Aeste entstehen, desto mehr Einnahmen fliessen.
+
+Visualisiere deinen Einnahmenbaum auf deinem Dashboard:
+[DASHBOARD_URL]
+
+Jede Person, die du rekrutierst, kann weitere rekrutieren. Und du verdienst auf jeder Ebene.
+
+Das SOS-Expat Team

@@ -1,0 +1,23 @@
+Betreff: [FNAME], das Schwierigste liegt hinter dir
+
+Hallo [FNAME],
+
+45 Tage. Du bist immer noch dabei. Das ist schon riesig.
+
+Die Wahrheit: Die meisten Leute geben in den ersten 2 Wochen auf. Du hast [DAYS_SINCE_REGISTRATION] Tage durchgehalten. Du hast einen aktiven Link, du kennst das System, du weisst, wie es funktioniert.
+
+Deine bisherigen Statistiken:
+- Insgesamt verdient: [TOTAL_EARNED]
+- Durchschnitt pro Tag: [AVG_EARNINGS_PER_DAY]
+- Team: [TEAM_SIZE] Rekrut(en)
+
+Das Schwierigste im Affiliate-Business ist der Anfang und die ersten Wochen durchzuhalten. Geschafft.
+
+Jetzt hast du einen Vorteil, den Neueinsteiger nicht haben: Deine alten Nachrichten kursieren weiter in den Gruppen. Jeden Tag, der vergeht, erreicht dein Link mehr Menschen ohne zusaetzlichen Aufwand.
+
+Der naechste Schritt? Teile deine Erfahrung. Erzaehle anderen, dass es moeglich ist, mit der Hilfe fuer Expats Geld zu verdienen. Jeder Rekrut, den du gewinnst, bringt dir [COMMISSION_N1] pro Anruf, den er generiert.
+
+Dein Link zum Teilen und Rekrutieren: [LINK]
+
+Wir sind stolz, dich im Team zu haben,
+Das SOS-Expat Team

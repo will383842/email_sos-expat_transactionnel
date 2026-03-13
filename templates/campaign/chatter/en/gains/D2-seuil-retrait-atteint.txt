@@ -1,0 +1,21 @@
+Subject: You can withdraw! [AVAILABLE_BALANCE] available
+
+[FNAME],
+
+Congrats! You've reached the withdrawal threshold.
+
+You have [AVAILABLE_BALANCE] available in your account. That's real money you can receive right now.
+
+How it works:
+- Minimum threshold: [WITHDRAWAL_THRESHOLD]
+- Withdrawal fee: [WITHDRAWAL_FEE]
+- You receive the rest directly in your account
+
+Click here to request your withdrawal: [DASHBOARD_URL]
+
+And while your money is on its way, keep sharing your link. Your next commission might be just one message away.
+
+Your link: [LINK]
+
+Congratulations,
+The SOS-Expat Team

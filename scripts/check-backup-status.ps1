@@ -22,7 +22,7 @@ function Write-Warning { Write-ColorOutput Yellow $args }
 function Write-Error { Write-ColorOutput Red $args }
 
 # Chemins
-$baseDir = "C:\Users\willi\Documents\Projets\VS_CODE\sos-expat-project\Outils d'emailing"
+$baseDir = "C:\Users\willi\Documents\Projets\VS_CODE\email_sos-expat_transactionnel"
 $backupsAutoDir = Join-Path $baseDir "backups-auto"
 $mailwizzTransDir = Join-Path $baseDir "mailwizz_transactionnel"
 $logFile = Join-Path $baseDir "logs\backup-hebdo.log"

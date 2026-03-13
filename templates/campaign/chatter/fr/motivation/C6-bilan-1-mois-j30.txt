@@ -1,0 +1,25 @@
+Objet : 1 mois ! Ton bilan perso + un outil que tu n'utilises peut-être pas
+
+Salut [FNAME],
+
+30 jours. Tu es officiellement un chatter avec de l'expérience.
+
+Ton bilan du mois :
+- Gains ce mois : [MONTHLY_EARNINGS]
+- Total depuis le début : [TOTAL_EARNED]
+- Équipe : [TEAM_SIZE] filleul(s)
+- Niveau : [LEVEL_NAME]
+
+Il y a un outil que beaucoup de chatters sous-estiment : le QR code.
+
+Ton QR code perso redirige directement vers ton lien d'affilié. Tu peux l'utiliser partout :
+- En photo de profil temporaire sur WhatsApp
+- Dans une story Instagram ou Facebook
+- Imprimé sur un flyer dans un centre communautaire
+- Envoyé en image dans une conversation
+
+C'est un raccourci visuel vers ton lien. Les gens scannent, appellent, tu gagnes.
+
+Télécharge ton QR code ici : [QR_CODE_URL]
+
+L'équipe SOS-Expat

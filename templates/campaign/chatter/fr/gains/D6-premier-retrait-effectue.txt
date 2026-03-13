@@ -1,0 +1,18 @@
+Objet : L'argent est sur ton compte ! [WITHDRAWAL_AMOUNT] envoyes
+
+[FNAME],
+
+C'est fait. [WITHDRAWAL_AMOUNT] viennent d'etre envoyes sur ton compte.
+
+Ce n'etait pas une promesse. Ce n'etait pas "un jour peut-etre". C'est reel, c'est fait, c'est chez toi.
+
+Tu fais partie des chatters qui sont passes a l'action. Et ca merite d'etre partage.
+
+Envoie ce temoignage a tes contacts :
+
+"Je viens de recevoir mon premier paiement de SOS-Expat ! Je partage un lien, des expatries appellent des avocats ou assistants, et je touche une commission sur chaque appel. C'est simple et ca paye vraiment. Rejoins-moi : [LINK]"
+
+Ton histoire inspire. Partage-la.
+
+Felicitations,
+L'equipe SOS-Expat

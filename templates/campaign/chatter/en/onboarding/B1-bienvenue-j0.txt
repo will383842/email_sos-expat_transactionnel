@@ -1,0 +1,15 @@
+Hi [FNAME]!
+
+Your Chatter SOS-Expat account is active. You're among the first — your commissions ([COMMISSION_CLIENT_LAWYER] and [COMMISSION_CLIENT_EXPAT] per call) are locked in for life. No one can take them away.
+
+Get started in 4 steps:
+
+1. Log in to your dashboard and copy your personal affiliate link
+2. Join 3 to 5 English-speaking expat groups on WhatsApp or Facebook
+3. Read, observe, help — without sharing your link right away
+4. When someone is truly struggling, introduce SOS-Expat naturally
+
+[DASHBOARD_URL]
+
+We'll see you on the other side!
+The SOS-Expat Team

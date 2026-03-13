@@ -1,0 +1,19 @@
+Hola [FNAME]!
+
+Ganas [COMMISSION_CLIENT_LAWYER] por llamada a abogado y [COMMISSION_CLIENT_EXPAT] por llamada a asistente. Esta bien. Pero sabes que es aun mejor?
+
+Cuando un amigo se inscribe a traves de tu enlace y se convierte en Chatter, tu ganas [COMMISSION_N1] por cada una de SUS llamadas. El trabaja, tu ganas. Automaticamente. Sin hacer nada mas.
+
+Un solo amigo activo puede generarte mas que tus propios esfuerzos.
+
+Aqui tienes un mensaje listo para enviar a UN contacto de WhatsApp:
+
+---
+Hey! He encontrado algo interesante. SOS-Expat ayuda a hispanohablantes en el extranjero a contactar con un abogado o un asistente por telefono. Buscan embajadores para hablar de ello en comunidades online. Es flexible, desde tu movil, y ganas una comision por cada llamada. Mira aqui: [LINK]
+---
+
+Elige a UNA persona de tus contactos. Esa que anda un poco justa de dinero, que es espabilada, que pasa tiempo en internet. Enviale este mensaje ahora.
+
+Un solo amigo. Es todo lo que hace falta para lanzar el efecto bola de nieve.
+
+El equipo SOS-Expat

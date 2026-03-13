@@ -1,0 +1,18 @@
+Betreff: Es passiert! Du verdienst automatisch dank [NEW_RECRUIT_NAME]
+
+[FNAME],
+
+Passives Einkommen beginnt jetzt.
+
+[NEW_RECRUIT_NAME] hat gerade seine erste Provision generiert. Und du hast [COMMISSION_N1] verdient, ohne einen Finger zu ruehren.
+
+Genau so funktioniert es: Dein Rekrut teilt, Expats rufen an, und du bekommst eine Provision. Jedes Mal. Automatisch.
+
+Stell dir das vor mit 2 weiteren Rekruten. Dann 5. Dann 10.
+
+Rekrutiere deine naechsten Teammitglieder, indem du deinen Link teilst: [LINK]
+
+Je groesser dein Team waechst, desto mehr verdienst du ohne Aufwand. Das ist Mathematik.
+
+Weiter so,
+Das SOS-Expat Team

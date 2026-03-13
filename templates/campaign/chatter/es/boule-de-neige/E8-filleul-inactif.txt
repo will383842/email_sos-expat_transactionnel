@@ -1,0 +1,13 @@
+Hola [FNAME]!
+
+Tu ahijado [INACTIVE_RECRUIT_NAME] no ha compartido nada desde hace [INACTIVE_RECRUIT_DAYS] dias. Pasa. La mayoria de la gente solo necesita un pequeno empujon para reactivarse.
+
+Enviale este mensaje:
+
+---
+Hey [INACTIVE_RECRUIT_NAME]! Hace tiempo que no te vemos por SOS-Expat. Sin presion, pero queria recordarte que tu enlace sigue activo y que cada llamada te genera ingresos. Incluso 10 minutos al dia en un grupo de WhatsApp pueden marcar la diferencia. Estamos en el mismo equipo, asi que si tienes preguntas o estas bloqueado en algo, dimelo. Aqui estoy!
+---
+
+Recuerda: cuando [INACTIVE_RECRUIT_NAME] genera llamadas, tu cobras [COMMISSION_N1] por cada una. Reactivar a un ahijado es reactivar un ingreso.
+
+El equipo SOS-Expat

@@ -7,8 +7,7 @@
 $ErrorActionPreference = "Stop"
 
 # Chemin de base
-$BasePath = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
-$OutilsPath = Join-Path $BasePath "Outils d'emailing"
+$OutilsPath = Split-Path -Parent $PSScriptRoot
 $BackupPath = Join-Path $OutilsPath "backup-cold"
 $OutputPath = Join-Path $OutilsPath "upload-package"
 

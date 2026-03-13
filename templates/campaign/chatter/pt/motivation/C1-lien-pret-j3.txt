@@ -1,0 +1,17 @@
+Assunto: [FNAME], o teu link esta pronto — 1 unico grupo basta para comecar
+
+Hey [FNAME],
+
+O teu link de afiliado esta ativo ha [DAYS_SINCE_REGISTRATION] dias. Uma unica partilha num grupo de WhatsApp pode gerar a tua primeira comissao.
+
+Nao precisas de nenhuma estrategia complicada. Copia esta mensagem e cola-a num grupo de WhatsApp de expatriados:
+
+---
+🆘 Es expatriado e precisas de ajuda juridica ou administrativa? Liga para um advogado ou um assistente expat em segundos, estejas onde estiveres. Servico disponivel 24h/24:
+[LINK]
+---
+
+E so isso. Uma mensagem, um grupo. Cada chamada feita atraves do teu link gera-te [COMMISSION_CLIENT_LAWYER] (advogado) ou [COMMISSION_CLIENT_EXPAT] (assistente expat).
+
+Vai em frente,
+A equipa SOS-Expat

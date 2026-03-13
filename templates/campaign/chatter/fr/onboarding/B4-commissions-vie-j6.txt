@@ -2,7 +2,7 @@ Bonjour [FNAME] !
 
 On veut s'assurer que vous avez bien compris quelque chose d'important.
 
-Vos commissions — 5$ par appel avocat et 3$ par appel assistant — sont bloquées à vie pour vous. Ce sont des tarifs fondateurs réservés aux premiers Ambassadeurs.
+Vos commissions — [COMMISSION_CLIENT_LAWYER] par appel avocat et [COMMISSION_CLIENT_EXPAT] par appel assistant — sont bloquées à vie pour vous. Ce sont des tarifs réservés aux Ambassadeurs comme vous.
 
 Les Chatters qui s'inscriront dans 6 mois n'auront pas ces tarifs. Vous, si. Pour toujours. Sur chaque appel. Sans exception.
 

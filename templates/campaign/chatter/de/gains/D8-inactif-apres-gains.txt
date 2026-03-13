@@ -1,0 +1,20 @@
+Betreff: Deine [AVAILABLE_BALANCE] schlafen... 1 Nachricht = potenziell [COMMISSION_CLIENT_LAWYER]
+
+[FNAME],
+
+Es sind 7 Tage vergangen. Dein Link schlaeft. Deine [AVAILABLE_BALANCE] auch.
+
+In der Zwischenzeit teilen und kassieren andere Chatter. Ein einziger Anwalt-Anruf bringt dir [COMMISSION_CLIENT_LAWYER]. Ein Expat-Assistenten-Anruf: [COMMISSION_CLIENT_EXPAT].
+
+Du brauchst nur eine Nachricht. Eine einzige.
+
+Oeffne WhatsApp und sende das in eine Expat-Gruppe:
+
+"Brauchst du einen Anwalt oder Hilfe bei deinen Angelegenheiten im Ausland? Ruf in 2 Minuten einen Profi an, egal wo du bist: [LINK]"
+
+30 Sekunden deiner Zeit. Potenziell [COMMISSION_CLIENT_LAWYER] auf deinem Konto.
+
+Dein Link: [LINK]
+
+Wir zaehlen auf dich,
+Das SOS-Expat Team

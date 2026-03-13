@@ -1,0 +1,18 @@
+Hallo [FNAME]!
+
+Es sind 2 Wochen vergangen, seit Sie dem Team beigetreten sind. Jetzt ist der richtige Zeitpunkt fuer eine Zwischenbilanz.
+
+Melden Sie sich in Ihrem Dashboard an und schauen Sie sich Ihre Statistiken an:
+
+Wie viele Klicks auf Ihren Link?
+Wie viele Anrufe generiert?
+Wie viel haben Sie verdient?
+Haben Sie schon jemanden rekrutiert?
+
+Wenn Ihre Zahlen gut aussehen: Herzlichen Glueckwunsch, weiter so! Sie sind auf dem besten Weg, unser Buero in Dakar zu integrieren.
+
+Wenn Ihre Zahlen bei null stehen: Keine Panik. Antworten Sie auf diese E-Mail und sagen Sie uns, wo Sie stehen. Wir helfen Ihnen sofort, die Situation zu loesen.
+
+[DASHBOARD_URL]
+
+Das SOS-Expat Team

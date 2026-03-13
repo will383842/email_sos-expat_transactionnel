@@ -1,0 +1,27 @@
+Assunto: 60 dias — o teu balanco personalizado, [FNAME]
+
+Ola [FNAME],
+
+2 meses de percurso como chatter. Aqui esta o teu balanco completo:
+
+--- O TEU BALANCO 60 DIAS ---
+Total ganho: [TOTAL_EARNED]
+Ganhos este mes: [MONTHLY_EARNINGS]
+Saldo disponivel: [AVAILABLE_BALANCE]
+Limiar de levantamento: [WITHDRAWAL_THRESHOLD]
+Equipa: [TEAM_SIZE] afilhado(s)
+Nivel: [LEVEL_NAME]
+Classificacao: #[RANK]
+Sequencia atual: [CURRENT_STREAK] dia(s)
+---
+
+Estes numeros contam a tua historia. Estejas a zero ou com varias centenas de dolares, agora tens 60 dias de experiencia e uma rede de mensagens que continua a trabalhar.
+
+O que vem a seguir depende de uma decisao simples: continuas a construir, ou largas o que ja puseste em marcha?
+
+Os chatters que ultrapassam os 60 dias sao os que acabam por viver das suas comissoes. Tu ja la estas.
+
+O teu dashboard com todas as estatisticas detalhadas: [DASHBOARD_URL]
+
+Contamos contigo,
+A equipa SOS-Expat

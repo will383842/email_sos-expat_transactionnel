@@ -1,0 +1,19 @@
+Hi [FNAME]!
+
+The snowball effect just happened.
+
+Your recruit's recruit generated a call. You earned [COMMISSION_N2] without lifting a finger. That's exactly how the system works.
+
+Let's recap:
+- You earn your own commissions when YOU generate a call
+- You earn [COMMISSION_N1] when YOUR recruit generates a call
+- You earn [COMMISSION_N2] when YOUR RECRUIT'S RECRUIT generates a call
+
+It's a tree that grows on its own. The bigger your team gets, the more branches multiply, the more income flows in.
+
+Visualize your income tree on your dashboard:
+[DASHBOARD_URL]
+
+Every person you recruit can recruit others. And you earn at every level.
+
+The SOS-Expat Team

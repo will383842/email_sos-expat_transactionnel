@@ -1,0 +1,21 @@
+Asunto: 5 ahijados = [PROJECTED_3_RECRUITS]/mes en pasivo
+
+[FNAME],
+
+5 ahijados activos. Formas parte de los chatters serios.
+
+Aqui tienes tus cifras reales:
+- Equipo: [TEAM_SIZE] ahijados
+- Total ganado: [TOTAL_EARNED]
+- Saldo disponible: [AVAILABLE_BALANCE]
+
+Con 5 ahijados activos, vas camino de [PROJECTED_3_RECRUITS]/mes de ingresos pasivos. Y cada nuevo ahijado acelera la maquina.
+
+Consulta tus estadisticas detalladas y proyecciones en tu dashboard: [DASHBOARD_URL]
+
+Tus cifras hablan por si solas. Sigue reclutando, sigue ganando.
+
+Tu enlace: [LINK]
+
+Impresionante,
+El equipo SOS-Expat

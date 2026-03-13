@@ -1,0 +1,16 @@
+Objet : Ton filleul [NEW_RECRUIT_NAME] s'est inscrit ! Aide-le a reussir
+
+[FNAME],
+
+Bonne nouvelle ! [NEW_RECRUIT_NAME] vient de s'inscrire grace a toi.
+
+Chaque appel que [NEW_RECRUIT_NAME] generera te rapportera [COMMISSION_N1]. Sans rien faire de plus. Mais pour ca, il faut qu'il demarre bien.
+
+Envoie-lui ce message maintenant :
+
+"Salut [NEW_RECRUIT_NAME] ! Bienvenue dans SOS-Expat. Le plus simple pour commencer : partage ton lien dans 2-3 groupes WhatsApp d'expatries. Chaque appel te rapporte une commission. Si tu as des questions, je suis la !"
+
+Les chatters qui aident leurs filleuls gagnent en moyenne 3x plus. C'est logique : quand ton equipe gagne, tu gagnes.
+
+A toi de jouer,
+L'equipe SOS-Expat

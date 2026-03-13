@@ -1,0 +1,1 @@
+Olá [FNAME]! 2 semanas na equipe. Confira suas estatísticas: cliques, chamadas, ganhos, recrutamentos. Se estão boas: parabéns! Se estão zeradas: responda a este email, vamos te ajudar. [DASHBOARD_URL] A equipe SOS-Expat

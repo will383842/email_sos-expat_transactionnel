@@ -2,7 +2,7 @@ Bonjour [FNAME],
 
 Il y a 2 jours on vous a dit OUI — mais on ne vous voit pas encore parmi nous !
 
-Les tarifs fondateurs à vie (5$ et 3$ par appel) sont réservés aux premiers inscrits. 10 appels par semaine = 200$ par mois. Depuis votre téléphone.
+Vos commissions personnalisées ([COMMISSION_CLIENT_LAWYER] et [COMMISSION_CLIENT_EXPAT] par appel) sont réservées et bloquées pour vous. Depuis votre téléphone.
 
 https://sos-expat.com/devenir-chatter
 

@@ -1,0 +1,19 @@
+Salut [FNAME] !
+
+L'effet boule de neige vient de se produire.
+
+Le filleul de ton filleul a généré un appel. Tu as touché [COMMISSION_N2] sans avoir levé le petit doigt. C'est exactement comme ça que le système fonctionne.
+
+Récapitulons :
+- Tu gagnes tes propres commissions quand TU génères un appel
+- Tu gagnes [COMMISSION_N1] quand TON filleul génère un appel
+- Tu gagnes [COMMISSION_N2] quand LE FILLEUL DE TON FILLEUL génère un appel
+
+C'est un arbre qui pousse tout seul. Plus ton équipe s'agrandit, plus les branches se multiplient, plus les revenus tombent.
+
+Visualise ton arbre de revenus sur ton dashboard :
+[DASHBOARD_URL]
+
+Chaque personne que tu recrutes peut en recruter d'autres. Et toi, tu gagnes à chaque niveau.
+
+L'équipe SOS-Expat

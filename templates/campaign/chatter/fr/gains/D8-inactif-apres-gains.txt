@@ -1,0 +1,20 @@
+Objet : Tes [AVAILABLE_BALANCE] dorment... 1 message = potentiellement [COMMISSION_CLIENT_LAWYER]
+
+[FNAME],
+
+Ca fait 7 jours. Ton lien dort. Tes [AVAILABLE_BALANCE] aussi.
+
+Pendant ce temps, d'autres chatters partagent et encaissent. Un seul appel avocat te rapporte [COMMISSION_CLIENT_LAWYER]. Un appel assistant expat : [COMMISSION_CLIENT_EXPAT].
+
+Il te suffit d'un message. Un seul.
+
+Ouvre WhatsApp et envoie ca dans un groupe d'expatries :
+
+"Besoin d'un avocat ou d'aide pour tes demarches a l'etranger ? Appelle un pro en 2 min, ou que tu sois : [LINK]"
+
+30 secondes de ton temps. Potentiellement [COMMISSION_CLIENT_LAWYER] sur ton compte.
+
+Ton lien : [LINK]
+
+On compte sur toi,
+L'equipe SOS-Expat
