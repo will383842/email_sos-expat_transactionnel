@@ -1,0 +1,18 @@
+Betreff: [FNAME], schick deinen Link an nur 1 Person
+
+Hey [FNAME]! Mission des Tages: 1 Nachricht, 1 Freund.
+
+Denk an jemanden, den du kennst, der im Ausland lebt oder oft reist. Ein Kumpel, ein Cousin, eine Kollegin. Nur 1 Person.
+
+Schick ihr das per WhatsApp oder SMS:
+
+---
+Hey! Ich bin auf was gestossen, das dich interessieren koennte, weil du ja im Ausland bist. Ein Service, der Expats direkt mit Anwaelten und Experten verbindet, wenn du ein rechtliches oder administratives Problem hast. Keine Anmeldegebuehr, du rufst nur an, wenn du es brauchst. Schau mal rein: [LINK]
+---
+
+Du verkaufst nichts. Du hilfst einem Freund. Punkt.
+
+Und wenn diese Person den Service irgendwann nutzt? Du verdienst [COMMISSION_CLIENT_LAWYER] pro Anwaltsanruf oder [COMMISSION_CLIENT_EXPAT] pro Expertenanruf. Nicht schlecht fuer 2 Minuten deiner Zeit.
+
+Los geht's!
+Das SOS-Expat Team

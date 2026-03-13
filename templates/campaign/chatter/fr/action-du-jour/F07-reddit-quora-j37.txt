@@ -1,0 +1,25 @@
+Objet : [FNAME], reponds a 1 question sur Reddit ou Quora
+
+Hey [FNAME] ! Aujourd'hui, on va la ou les expats posent leurs questions.
+
+MISSION : Trouve 1 question sur Reddit, Quora ou Expat.com et reponds avec une vraie reponse utile.
+
+Ou chercher :
+- Reddit : r/expats, r/france, r/iwantout, r/immigration
+- Quora : "probleme visa etranger", "aide juridique expatrie", "avocat immigration"
+- Expat.com : forum, questions recentes
+
+La regle d'or : reponds VRAIMENT a la question d'abord. Ensuite, mentionne SOS-Expat comme UNE option.
+
+Exemple de reponse :
+
+---
+Pour ce type de situation, je te conseille de consulter un avocat specialise en droit international ou en immigration. En attendant, il existe aussi des services comme SOS-Expat ([LINK]) qui permettent de parler a un avocat par telephone en quelques minutes, ca peut te debloquer rapidement.
+---
+
+Pourquoi ca marche ? Parce que ces questions restent en ligne pendant des MOIS. Ta reponse continue de travailler pour toi meme quand tu dors.
+
+1 reponse utile = des clics pendant des semaines = [COMMISSION_CLIENT_LAWYER] a repetition.
+
+Go go go !
+L'equipe SOS-Expat

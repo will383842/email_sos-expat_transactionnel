@@ -1,0 +1,28 @@
+Asunto: [FNAME], escribe 3 frases y comparte tu experiencia
+
+Hey [FNAME]! Ultima mision de la serie. Y es la mas personal.
+
+MISION: Escribe 3 frases sobre tu experiencia y compartelas.
+
+Completa este modelo:
+
+---
+Soy [FNAME], embajador SOS-Expat. Lo que me gusta: [lo que te gusta -- ayudar a los expats, el ingreso extra, la flexibilidad, el equipo...]. Si vives en el extranjero o conoces expatriados, echale un vistazo: [LINK]
+---
+
+Donde compartirlo:
+- En una story de WhatsApp o Instagram
+- En un grupo de Facebook de expats
+- Como comentario en una publicacion sobre expatriacion
+- En tu perfil personal
+
+Es TU testimonio. No un texto de marketing. Eso es lo que lo hace poderoso.
+
+La gente confia en personas reales, no en anuncios. Tus 3 frases valen mas que cualquier campana.
+
+Ya has ganado [TOTAL_EARNED] desde tu inscripcion. Sigue asi.
+
+Bravo [FNAME], completaste la serie Accion del Dia. Eres parte de los embajadores mas activos. Lo que sigue? Sigue aplicando estas acciones, una por una. La constancia es lo que paga.
+
+Vamos!
+El equipo SOS-Expat

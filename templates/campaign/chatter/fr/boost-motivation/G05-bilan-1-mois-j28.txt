@@ -1,0 +1,28 @@
+Objet : 1 mois ! Regarde ou tu en es, [FNAME]
+
+Hey [FNAME],
+
+Ca fait officiellement [DAYS_SINCE_REGISTRATION] jours que t'es chatter. Un mois. C'est un vrai cap.
+
+Ton bilan :
+- Total gagne : [TOTAL_EARNED]
+- Equipe : [TEAM_SIZE] filleuls
+- Classement : [RANK]
+- Niveau : [LEVEL_NAME]
+
+Tu sais ce qui s'est passe pendant ce mois pour les gens qui n'ont PAS ose s'inscrire ?
+
+Rien. Zero. Nada.
+
+Ils ont continue a scroller. A "reflechir". A se dire "un jour". Pendant que toi, tu construisais.
+
+Que tes chiffres soient deja impressionnants ou que tu demarres doucement, retiens un truc : chaque grand chatter a commence exactement la ou tu es.
+
+Personne ne demarre avec une equipe de 50 et des commissions qui tombent toutes les heures. Ca se construit. Jour apres jour. Lien apres lien. Groupe apres groupe.
+
+Et toi, t'es la depuis 1 mois. T'as prouve que t'es pas la par hasard.
+
+Le deuxieme mois est toujours meilleur que le premier. Toujours.
+
+On est fiers de toi,
+L'equipe SOS-Expat

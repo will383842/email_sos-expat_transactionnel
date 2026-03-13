@@ -1,0 +1,29 @@
+Objet : [DAYS_SINCE_REGISTRATION] jours. Tu es un veteran, [FNAME].
+
+Hey [FNAME],
+
+Un fait : la majorite des gens qui tentent un side hustle en ligne abandonnent en moins de 14 jours.
+
+Toi, ca fait [DAYS_SINCE_REGISTRATION] jours que t'es la.
+
+Tu sais ce que ca veut dire ? Tu es un vrai.
+
+Pas un curieux qui teste et disparait. Pas un reveur qui s'inscrit et oublie. Un vrai chatter qui construit quelque chose.
+
+Tes stats de veteran :
+- Niveau : [LEVEL_NAME]
+- Classement : #[RANK]
+- Total gagne : [TOTAL_EARNED]
+- Equipe : [TEAM_SIZE] filleuls
+- Solde disponible : [AVAILABLE_BALANCE]
+
+Chaque jour que tu restes, tu prends de l'avance sur ceux qui ont abandonne. Chaque semaine, ton reseau s'etend un peu plus. Chaque mois, la boule de neige grossit.
+
+Le prochain palier est plus proche que tu ne le crois. Et quand tu l'atteindras, tu te diras exactement ce que tous les veterans se disent :
+
+"C'est la que ca a commence a devenir vraiment interessant."
+
+Continue, veteran.
+
+Ton equipe qui croit en toi,
+L'equipe SOS-Expat

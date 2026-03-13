@@ -1,0 +1,32 @@
+Assunto: 60 dias. O melhor esta a tua frente, [FNAME].
+
+Hey [FNAME],
+
+Ha [DAYS_SINCE_REGISTRATION] dias, tinhas zero. Zero comissoes. Zero afilhados. Zero classificacao. Apenas um link e uma decisao.
+
+Hoje:
+- [TOTAL_EARNED] ganhos
+- [TEAM_SIZE] pessoas na tua equipa
+- #[RANK] na classificacao
+- Nivel [LEVEL_NAME]
+- [MONTHLY_EARNINGS] este mes
+
+Quer estes numeros ja sejam grandes ou ainda modestos, lembra-te de uma coisa: provaste que consegues. Inscreveste-te. Ficaste. Partilhaste. Construiste.
+
+99% das pessoas nunca chegam ate aqui. Tu sim.
+
+E agora? Agora, vais acelerar.
+
+Porque os primeiros 60 dias sao a rampa de lancamento. Aprendeste como funciona. Encontraste os teus grupos. Viste as tuas primeiras comissoes. Compreendeste o efeito bola de neve.
+
+Os proximos 60 dias vao ser ainda melhores. Porque agora sabes como funciona.
+
+O teu link. A tua equipa. O teu futuro.
+
+Continua.
+
+Consulta o teu dashboard: [DASHBOARD_URL]
+O teu link: [LINK]
+
+Temos orgulho em ti. A serio.
+A equipa SOS-Expat

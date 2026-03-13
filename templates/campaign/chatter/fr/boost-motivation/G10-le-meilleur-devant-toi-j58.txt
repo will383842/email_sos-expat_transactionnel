@@ -1,0 +1,32 @@
+Objet : 60 jours. Le meilleur est devant toi, [FNAME].
+
+Hey [FNAME],
+
+Il y a [DAYS_SINCE_REGISTRATION] jours, tu avais zero. Zero commission. Zero filleul. Zero classement. Juste un lien et une decision.
+
+Aujourd'hui :
+- [TOTAL_EARNED] gagnes
+- [TEAM_SIZE] personnes dans ton equipe
+- #[RANK] au classement
+- Niveau [LEVEL_NAME]
+- [MONTHLY_EARNINGS] ce mois-ci
+
+Que ces chiffres soient deja gros ou encore modestes, retiens une chose : tu as prouve que tu peux. Tu t'es inscrit. Tu es reste. Tu as partage. Tu as construit.
+
+99% des gens n'arrivent jamais jusque-la. Toi si.
+
+Et maintenant ? Maintenant, tu vas accelerer.
+
+Parce que les 60 premiers jours, c'est la rampe de lancement. Tu as appris comment ca marche. Tu as trouve tes groupes. Tu as vu tes premieres commissions. Tu as compris l'effet boule de neige.
+
+Les 60 prochains jours vont etre encore meilleurs. Parce que maintenant, tu sais comment ca marche.
+
+Ton lien. Ton equipe. Ton avenir.
+
+Continue.
+
+Consulte ton dashboard : [DASHBOARD_URL]
+Ton lien : [LINK]
+
+On est fiers de toi. Vraiment.
+L'equipe SOS-Expat

@@ -1,0 +1,21 @@
+Asunto: [FNAME], proponle el plan a 1 amigo (y multiplica tus ganancias)
+
+Hey [FNAME]! Mision del dia: pasa al modo equipo.
+
+Sabes que es mejor que ganar comisiones? Ganar comisiones SOBRE las comisiones de tus referidos. Asi es exactamente como funciona SOS-Expat.
+
+MISION: Envia este mensaje a 1 amigo o familiar que busque un ingreso extra.
+
+---
+Hey! Estoy haciendo algo interesante -- soy embajador de un servicio de ayuda para expatriados. Compartes un enlace, y cuando alguien usa el servicio, ganas una comision. Es gratis, sin compromiso, lo haces cuando quieras desde tu telefono. Si te interesa, inscribete aqui: [LINK]
+---
+
+Cuando esa persona se inscribe y comparte su propio enlace:
+- Ella gana sus comisiones
+- TU ganas [COMMISSION_N1] por cada llamada de ella
+- Y [COMMISSION_N2] por las llamadas de las personas que ELLA reclute
+
+1 mensaje. 1 amigo. Ganancias multiplicadas.
+
+Vamos!
+El equipo SOS-Expat

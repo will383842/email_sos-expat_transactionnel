@@ -1,0 +1,32 @@
+Betreff: 60 Tage. Das Beste liegt vor dir, [FNAME].
+
+Hey [FNAME],
+
+Vor [DAYS_SINCE_REGISTRATION] Tagen hattest du null. Null Provisionen. Null Rekruten. Null Ranking. Nur einen Link und eine Entscheidung.
+
+Heute:
+- [TOTAL_EARNED] verdient
+- [TEAM_SIZE] Personen in deinem Team
+- #[RANK] im Ranking
+- Level [LEVEL_NAME]
+- [MONTHLY_EARNINGS] diesen Monat
+
+Egal ob diese Zahlen schon gross oder noch bescheiden sind -- merk dir eins: Du hast bewiesen, dass du es kannst. Du hast dich angemeldet. Du bist geblieben. Du hast geteilt. Du hast aufgebaut.
+
+99% der Leute kommen nie so weit. Du schon.
+
+Und jetzt? Jetzt gibst du Gas.
+
+Weil die ersten 60 Tage die Startrampe sind. Du hast gelernt, wie es funktioniert. Du hast deine Gruppen gefunden. Du hast deine ersten Provisionen gesehen. Du hast den Schneeballeffekt verstanden.
+
+Die naechsten 60 Tage werden noch besser. Weil du jetzt weisst, wie es laeuft.
+
+Dein Link. Dein Team. Deine Zukunft.
+
+Mach weiter.
+
+Schau in dein Dashboard: [DASHBOARD_URL]
+Dein Link: [LINK]
+
+Wir sind stolz auf dich. Wirklich.
+Das SOS-Expat Team

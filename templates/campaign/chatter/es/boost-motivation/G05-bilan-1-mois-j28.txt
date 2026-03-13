@@ -1,0 +1,28 @@
+Asunto: 1 mes! Mira donde estas, [FNAME]
+
+Hey [FNAME],
+
+Oficialmente llevas [DAYS_SINCE_REGISTRATION] dias como chatter. Un mes. Es un verdadero hito.
+
+Tu balance:
+- Total ganado: [TOTAL_EARNED]
+- Equipo: [TEAM_SIZE] referidos
+- Clasificacion: [RANK]
+- Nivel: [LEVEL_NAME]
+
+Sabes que paso durante este mes para la gente que NO se atrevio a inscribirse?
+
+Nada. Cero. Nada.
+
+Siguieron pasando de largo. "Pensandolo". Diciendose "algun dia". Mientras tu construias.
+
+Ya sea que tus numeros sean impresionantes o que estes empezando despacio, recuerda una cosa: cada gran chatter empezo exactamente donde tu estas.
+
+Nadie empieza con un equipo de 50 y comisiones que caen a cada hora. Se construye. Dia tras dia. Enlace tras enlace. Grupo tras grupo.
+
+Y tu llevas 1 mes aqui. Has demostrado que no estas aqui por casualidad.
+
+El segundo mes siempre es mejor que el primero. Siempre.
+
+Estamos orgullosos de ti,
+El equipo SOS-Expat

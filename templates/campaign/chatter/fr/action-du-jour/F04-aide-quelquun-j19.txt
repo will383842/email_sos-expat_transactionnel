@@ -1,0 +1,24 @@
+Objet : [FNAME], aide 1 personne aujourd'hui (la technique en or)
+
+Hey [FNAME] ! Aujourd'hui, la mission la plus puissante.
+
+MISSION : Trouve 1 personne dans un groupe qui galere avec un probleme juridique ou administratif a l'etranger. Et aide-la.
+
+Ou chercher :
+- Tes groupes WhatsApp et Facebook d'expats
+- Les posts du type "au secours", "besoin d'aide", "quelqu'un connait un avocat ?"
+
+Quand tu trouves quelqu'un, reponds avec ca :
+
+---
+Je comprends ta galere, c'est stressant... Tu devrais contacter un avocat specialise, ca peut tout changer. Il y a ce service qui connecte les expats avec des avocats en quelques minutes, pas besoin de rendez-vous : [LINK]. Courage !
+---
+
+Pourquoi c'est la technique en or ? Parce que tu aides VRAIMENT quelqu'un. La personne te fait confiance. Elle clique. Elle appelle. Tu gagnes [COMMISSION_CLIENT_LAWYER].
+
+Pas de vente. Pas de blabla. Juste de l'aide.
+
+C'est la difference entre un ambassadeur qui gagne et un qui galere : les meilleurs aident en premier.
+
+Go go go !
+L'equipe SOS-Expat

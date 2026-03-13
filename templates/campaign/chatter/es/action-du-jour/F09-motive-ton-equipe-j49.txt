@@ -1,0 +1,30 @@
+Asunto: [FNAME], envia 1 mensaje a tu equipo
+
+Hey [FNAME]! Hoy jugamos en equipo.
+
+Tienes referidos en tu equipo? Perfecto. Enviales un pequeno mensaje de motivacion. Toma 1 minuto y puede reactivar todo.
+
+Mensaje para copiar y pegar:
+
+---
+Hey! Como estas? Compartiste tu enlace SOS-Expat esta semana? Yo publique en un grupo de expats y tuve clics. Si necesitas consejos o ideas para compartir, no dudes, aqui estoy!
+---
+
+Por que es importante? Porque cuando tu equipo se mueve, TU ganas:
+- [COMMISSION_N1] por cada llamada de tus referidos directos
+- [COMMISSION_N2] por las llamadas de los referidos de tus referidos
+
+Tu equipo actual: [TEAM_SIZE] persona(s)
+
+AUN NO TIENES REFERIDOS? No te preocupes. Tu mision alternativa:
+
+Envia este mensaje a 1 persona:
+
+---
+Hola! Busco personas motivadas para unirse a mi equipo de embajadores SOS-Expat. Es gratis, compartes un enlace y ganas comisiones. Inscribete aqui: [LINK]
+---
+
+1 mensaje. Equipo motivado. Ganancias multiplicadas.
+
+Vamos!
+El equipo SOS-Expat

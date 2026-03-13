@@ -1,0 +1,18 @@
+Assunto: [FNAME], envia o teu link a 1 unica pessoa
+
+Hey [FNAME]! Missao de hoje: 1 mensagem, 1 amigo.
+
+Pensa em alguem que conheces que vive no estrangeiro ou que viaja frequentemente. Um amigo, um primo, uma colega. Apenas 1.
+
+Envia-lhe isto por WhatsApp ou SMS:
+
+---
+Ola! Descobri uma coisa que te pode interessar ja que estas no estrangeiro. E um servico que conecta expatriados diretamente com advogados e especialistas quando tens um problema juridico ou administrativo. Sem custos de inscricao, so ligas quando precisas. Da uma olhada: [LINK]
+---
+
+Nao estas a vender nada. Estas a ajudar um amigo. Ponto.
+
+E se essa pessoa usar o servico um dia? Ganhas [COMMISSION_CLIENT_LAWYER] por chamada com advogado ou [COMMISSION_CLIENT_EXPAT] por chamada com especialista. Nada mau para 2 minutos do teu tempo.
+
+Vai em frente!
+A equipa SOS-Expat

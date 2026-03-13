@@ -1,0 +1,30 @@
+Asunto: El efecto bola de nieve (y por que lo cambia todo)
+
+Hey [FNAME],
+
+Imagina este escenario:
+
+Tu reclutas a 3 chatters. Hasta aqui, clasico.
+
+Cada uno de esos 3 chatters recluta a 3 personas. Eso te da 9 referidos de nivel 2.
+
+Ahora, los 3 + los 9 comparten su enlace. Los clientes llaman. Y tu ganas por TODO:
+
+- [COMMISSION_N1] por llamada de tus referidos directos (N1)
+- [COMMISSION_N2] por llamada de sus reclutas (N2)
+- Y por supuesto [COMMISSION_CLIENT_LAWYER] por llamada de TUS propios clientes
+
+Con [TEAM_SIZE] referidos activos hoy, imagina si cada uno recluta a 3 personas...
+
+Eso es el efecto bola de nieve. Plantas semillas. Tus referidos plantan semillas. Y el bosque crece. Incluso cuando no estas mirando.
+
+Lo mejor? No necesitas gestionar tu equipo. Sin formacion. Sin seguimiento. Cada uno recibe las mismas herramientas y emails que tu. El sistema se encarga.
+
+Tu reclutas. El sistema forma. Todos ganan.
+
+Es matematico. Cuantas mas semillas plantas, mas crece tu bosque.
+
+Tu enlace para plantar la proxima semilla: [LINK]
+
+Lo mejor esta por venir,
+El equipo SOS-Expat

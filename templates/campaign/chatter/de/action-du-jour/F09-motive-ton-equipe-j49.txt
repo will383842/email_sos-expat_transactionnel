@@ -1,0 +1,30 @@
+Betreff: [FNAME], schick 1 Nachricht an dein Team
+
+Hey [FNAME]! Heute spielen wir als Team.
+
+Du hast Rekruten in deinem Team? Perfekt. Schick ihnen eine kleine Motivationsnachricht. Dauert 1 Minute und kann alles wieder in Gang bringen.
+
+Nachricht zum Kopieren:
+
+---
+Hey! Wie laeuft's? Hast du diese Woche deinen SOS-Expat-Link geteilt? Ich hab in einer Expat-Gruppe gepostet und ein paar Klicks bekommen. Wenn du Tipps oder Ideen brauchst, wie du teilen kannst, frag einfach -- ich bin da!
+---
+
+Warum ist das wichtig? Weil wenn dein Team aktiv ist, DU verdienst:
+- [COMMISSION_N1] auf jeden Anruf deiner direkten Rekruten
+- [COMMISSION_N2] auf Anrufe der Rekruten deiner Rekruten
+
+Dein aktuelles Team: [TEAM_SIZE] Mitglied(er)
+
+NOCH KEINE REKRUTEN? Kein Problem. Hier ist deine Alternativ-Mission:
+
+Schick diese Nachricht an 1 Person:
+
+---
+Hey! Ich suche motivierte Leute fuer mein SOS-Expat Botschafter-Team. Kostenlos, du teilst einen Link und verdienst Provisionen. Melde dich hier an: [LINK]
+---
+
+1 Nachricht. Motiviertes Team. Vervielfachte Einnahmen.
+
+Los geht's!
+Das SOS-Expat Team

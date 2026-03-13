@@ -1,0 +1,21 @@
+Betreff: [FNAME], erzaehl 1 Freund davon (und multipliziere deine Einnahmen)
+
+Hey [FNAME]! Mission des Tages: Schalte den Team-Modus ein.
+
+Weisst du, was besser ist als Provisionen zu verdienen? Provisionen AUF die Provisionen deiner Rekruten zu verdienen. Genau so funktioniert SOS-Expat.
+
+MISSION: Schick diese Nachricht an 1 Freund oder Kontakt, der ein Nebeneinkommen sucht.
+
+---
+Hey! Ich mache gerade was Cooles -- ich bin Botschafter fuer einen Service, der Expats hilft. Du teilst einen Link, und wenn jemand den Service nutzt, bekommst du eine Provision. Kostenlos, null Verpflichtung, du machst das wann du willst vom Handy aus. Wenn dich das interessiert, melde dich hier an: [LINK]
+---
+
+Wenn sich diese Person anmeldet und ihren eigenen Link teilt:
+- Sie verdient ihre Provisionen
+- DU verdienst [COMMISSION_N1] auf jeden ihrer Anrufe
+- Und [COMMISSION_N2] auf Anrufe von Leuten, die SIE rekrutiert
+
+1 Nachricht. 1 Freund. Vervielfachte Einnahmen.
+
+Los geht's!
+Das SOS-Expat Team

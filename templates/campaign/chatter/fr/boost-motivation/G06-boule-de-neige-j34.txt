@@ -1,0 +1,30 @@
+Objet : L'effet boule de neige (et pourquoi ca change tout)
+
+Hey [FNAME],
+
+Imagine ce scenario :
+
+Toi, tu recrutes 3 chatters. Jusque-la, classique.
+
+Chacun de ces 3 chatters recrute 3 personnes. Ca te fait 9 filleuls de niveau 2.
+
+Maintenant, les 3 + les 9 partagent leur lien. Des clients appellent. Et toi, tu gagnes sur TOUT :
+
+- [COMMISSION_N1] par appel de tes filleuls directs (N1)
+- [COMMISSION_N2] par appel de leurs recrues (N2)
+- Et bien sur [COMMISSION_CLIENT_LAWYER] par appel de TES propres clients
+
+Avec [TEAM_SIZE] filleuls actifs aujourd'hui, imagine s'ils recrutent chacun 3 personnes...
+
+C'est ca l'effet boule de neige. Tu plantes des graines. Tes filleuls plantent des graines. Et la foret pousse. Meme quand tu ne regardes pas.
+
+Le plus beau ? Tu n'as pas besoin de gerer ton equipe. Pas de formation. Pas de suivi. Chacun recoit les memes outils et emails que toi. Le systeme s'en occupe.
+
+Toi, tu recrutes. Le systeme forme. Tout le monde gagne.
+
+C'est mathematique. Plus tu plantes de graines, plus ta foret pousse.
+
+Ton lien pour planter la prochaine graine : [LINK]
+
+La suite va etre dingue,
+L'equipe SOS-Expat

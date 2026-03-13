@@ -1,0 +1,32 @@
+Subject: 60 days. The best is ahead of you, [FNAME].
+
+Hey [FNAME],
+
+[DAYS_SINCE_REGISTRATION] days ago, you had zero. Zero commissions. Zero recruits. Zero ranking. Just a link and a decision.
+
+Today:
+- [TOTAL_EARNED] earned
+- [TEAM_SIZE] people on your team
+- #[RANK] in the rankings
+- Level [LEVEL_NAME]
+- [MONTHLY_EARNINGS] this month
+
+Whether these numbers are already big or still modest, remember one thing: you've proven you can do this. You signed up. You stayed. You shared. You built.
+
+99% of people never make it this far. You did.
+
+And now? Now you accelerate.
+
+Because the first 60 days are the launchpad. You learned how it works. You found your groups. You saw your first commissions. You understood the snowball effect.
+
+The next 60 days are going to be even better. Because now, you know how it works.
+
+Your link. Your team. Your future.
+
+Keep going.
+
+Check your dashboard: [DASHBOARD_URL]
+Your link: [LINK]
+
+We're proud of you. Truly.
+The SOS-Expat Team

@@ -1,0 +1,30 @@
+Assunto: [FNAME], envia 1 mensagem a tua equipa
+
+Hey [FNAME]! Hoje, jogamos em equipa.
+
+Tens afilhados na tua equipa? Perfeito. Envia-lhes uma pequena mensagem de motivacao. Demora 1 minuto e pode relancar tudo.
+
+Mensagem para copiar e colar:
+
+---
+Ola! Como estas? Partilhaste o teu link SOS-Expat esta semana? Eu publiquei num grupo de expats e tive cliques. Se precisares de conselhos ou ideias para partilhar, nao hesites, estou aqui!
+---
+
+Porque e importante? Porque quando a tua equipa se mexe, TU ganhas:
+- [COMMISSION_N1] em cada chamada dos teus afilhados diretos
+- [COMMISSION_N2] nas chamadas dos afilhados dos teus afilhados
+
+A tua equipa atual: [TEAM_SIZE] pessoa(s)
+
+AINDA NAO TENS AFILHADOS? Sem problema. A tua missao alternativa:
+
+Envia esta mensagem a 1 pessoa:
+
+---
+Ola! Procuro pessoas motivadas para se juntarem a minha equipa de embaixadores SOS-Expat. E gratuito, partilhas um link e ganhas comissoes. Inscreve-te aqui: [LINK]
+---
+
+1 mensagem. Equipa motivada. Ganhos multiplicados.
+
+Vai em frente!
+A equipa SOS-Expat

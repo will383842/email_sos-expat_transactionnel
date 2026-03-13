@@ -1,0 +1,30 @@
+Objet : [FNAME], envoie 1 message a ton equipe
+
+Hey [FNAME] ! Aujourd'hui, on joue collectif.
+
+Tu as des filleuls dans ton equipe ? Parfait. Envoie-leur un petit message de motivation. Ca prend 1 minute et ca peut tout relancer.
+
+Message a copier-coller :
+
+---
+Hey ! Comment ca va ? Tu as partage ton lien SOS-Expat cette semaine ? Moi j'ai poste dans un groupe d'expats et j'ai eu des clics. Si t'as besoin de conseils ou d'idees pour partager, hesite pas, je suis la !
+---
+
+Pourquoi c'est important ? Parce que quand ton equipe bouge, TU gagnes :
+- [COMMISSION_N1] sur chaque appel de tes filleuls directs
+- [COMMISSION_N2] sur les appels des filleuls de tes filleuls
+
+Ton equipe actuelle : [TEAM_SIZE] personne(s)
+
+PAS ENCORE DE FILLEULS ? Pas de souci. Ta mission alternative :
+
+Envoie ce message a 1 personne :
+
+---
+Salut ! Je cherche des gens motives pour rejoindre mon equipe d'ambassadeurs SOS-Expat. C'est gratuit, tu partages un lien et tu gagnes des commissions. Inscris-toi ici : [LINK]
+---
+
+1 message. Equipe motivee. Gains multiplies.
+
+Go go go !
+L'equipe SOS-Expat

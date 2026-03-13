@@ -1,0 +1,18 @@
+Asunto: [FNAME], envia tu enlace a 1 sola persona
+
+Hey [FNAME]! Mision del dia: 1 mensaje, 1 amigo.
+
+Piensa en alguien que conoces que vive en el extranjero o que viaja a menudo. Un amigo, un primo, una colega. Solo 1.
+
+Enviale esto por WhatsApp o SMS:
+
+---
+Hey! Encontre algo que podria interesarte ya que estas en el extranjero. Es un servicio que conecta a los expatriados directamente con abogados y expertos cuando tienes un problema juridico o administrativo. Sin costos de inscripcion, solo llamas cuando lo necesitas. Echale un vistazo: [LINK]
+---
+
+No estas vendiendo nada. Estas ayudando a un amigo. Punto.
+
+Y si esa persona usa el servicio algun dia? Ganas [COMMISSION_CLIENT_LAWYER] por llamada de abogado o [COMMISSION_CLIENT_EXPAT] por llamada de experto. Nada mal por 2 minutos de tu tiempo.
+
+Vamos!
+El equipo SOS-Expat

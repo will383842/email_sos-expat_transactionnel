@@ -1,0 +1,29 @@
+Betreff: [DAYS_SINCE_REGISTRATION] Tage. Du bist ein Veteran, [FNAME].
+
+Hey [FNAME],
+
+Ein Fakt: Die meisten Leute, die einen Side Hustle online versuchen, geben in weniger als 14 Tagen auf.
+
+Du bist seit [DAYS_SINCE_REGISTRATION] Tagen dabei.
+
+Weisst du, was das bedeutet? Du bist ein echter.
+
+Kein neugieriger Zaungast, der testet und verschwindet. Kein Traeumer, der sich anmeldet und vergisst. Ein echter Chatter, der etwas aufbaut.
+
+Deine Veteranen-Stats:
+- Level: [LEVEL_NAME]
+- Ranking: #[RANK]
+- Gesamtverdienst: [TOTAL_EARNED]
+- Team: [TEAM_SIZE] Rekruten
+- Verfuegbares Guthaben: [AVAILABLE_BALANCE]
+
+Jeder Tag, den du bleibst, bringt dich vor denen voraus, die aufgegeben haben. Jede Woche waechst dein Netzwerk ein Stueck weiter. Jeden Monat wird der Schneeball groesser.
+
+Die naechste Stufe ist naeher, als du denkst. Und wenn du sie erreichst, wirst du genau das sagen, was alle Veteranen sagen:
+
+"Ab hier wurde es erst richtig spannend."
+
+Weiter so, Veteran.
+
+Dein Team, das an dich glaubt,
+Das SOS-Expat Team

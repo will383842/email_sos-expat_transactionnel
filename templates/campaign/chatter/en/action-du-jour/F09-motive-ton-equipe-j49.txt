@@ -1,0 +1,30 @@
+Subject: [FNAME], send 1 message to your team
+
+Hey [FNAME]! Today, we play as a team.
+
+Got recruits in your team? Perfect. Send them a little motivational message. It takes 1 minute and can restart everything.
+
+Message to copy-paste:
+
+---
+Hey! How's it going? Have you shared your SOS-Expat link this week? I posted in an expat group and got some clicks. If you need tips or ideas on how to share, just ask -- I'm here to help!
+---
+
+Why does this matter? Because when your team moves, YOU earn:
+- [COMMISSION_N1] on every call from your direct recruits
+- [COMMISSION_N2] on calls from your recruits' recruits
+
+Your current team: [TEAM_SIZE] member(s)
+
+NO RECRUITS YET? No worries. Here's your alternative mission:
+
+Send this message to 1 person:
+
+---
+Hey! I'm looking for motivated people to join my SOS-Expat ambassador team. It's free, you share a link and earn commissions. Sign up here: [LINK]
+---
+
+1 message. Motivated team. Multiplied earnings.
+
+Let's gooo!
+The SOS-Expat Team

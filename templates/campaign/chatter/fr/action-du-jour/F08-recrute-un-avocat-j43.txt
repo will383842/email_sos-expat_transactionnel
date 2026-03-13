@@ -1,0 +1,26 @@
+Objet : [FNAME], tu connais un avocat ou un expert ? Envoie-lui ca
+
+Hey [FNAME] ! Mission speciale aujourd'hui.
+
+MISSION : Pense a 1 avocat, notaire, juriste, consultant en immigration ou expert de l'expatriation que tu connais. Et envoie-lui ce message.
+
+---
+Bonjour ! Je travaille avec SOS-Expat, un service qui met les expatries en contact avec des professionnels comme vous pour des consultations telephoniques. Ca pourrait vous apporter de nouveaux clients internationaux, sans aucun cout d'inscription. Voici plus d'infos : [LINK]
+---
+
+Pourquoi c'est une super action ?
+- Le professionnel recoit de nouveaux clients gratuitement
+- Tu gagnes [COMMISSION_PROVIDER] a chaque appel qu'il prend
+- Tout le monde y gagne
+
+Tu ne connais pas d'avocat personnellement ? Cherche sur LinkedIn :
+- "avocat droit international"
+- "immigration lawyer"
+- "consultant expatriation"
+
+Et envoie un message poli avec le texte ci-dessus.
+
+1 message. 1 pro. Des commissions recurrentes.
+
+Go go go !
+L'equipe SOS-Expat

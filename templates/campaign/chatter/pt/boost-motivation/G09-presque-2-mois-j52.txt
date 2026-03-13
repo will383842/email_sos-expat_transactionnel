@@ -1,0 +1,29 @@
+Assunto: [DAYS_SINCE_REGISTRATION] dias. Es um veterano, [FNAME].
+
+Hey [FNAME],
+
+Um facto: a maioria das pessoas que tentam um side hustle online desistem em menos de 14 dias.
+
+Tu, ja passaram [DAYS_SINCE_REGISTRATION] dias.
+
+Sabes o que isso significa? Es autentico.
+
+Nao es um curioso que testa e desaparece. Nao es um sonhador que se inscreve e esquece. Es um verdadeiro chatter que esta a construir algo.
+
+As tuas stats de veterano:
+- Nivel: [LEVEL_NAME]
+- Classificacao: #[RANK]
+- Total ganho: [TOTAL_EARNED]
+- Equipa: [TEAM_SIZE] afilhados
+- Saldo disponivel: [AVAILABLE_BALANCE]
+
+Cada dia que ficas, avancar em relacao aos que desistiram. Cada semana, a tua rede expande-se um pouco mais. Cada mes, a bola de neve cresce.
+
+O proximo patamar esta mais perto do que pensas. E quando o atingires, vais dizer exatamente o que todos os veteranos dizem:
+
+"Foi aqui que comecou a ficar realmente interessante."
+
+Continua, veterano.
+
+A tua equipa que acredita em ti,
+A equipa SOS-Expat
